@@ -4,7 +4,7 @@
 
 **Status:** Planned | **Stage:** 4 | **Area:** Compliance; AI & Data Governance
 
-**Organisation:** the shared fictional institution, see [scenario](../scenario/)
+**Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
 **Notion page:** [TODO: link, added after publishing]
 

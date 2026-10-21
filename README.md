@@ -2,7 +2,7 @@
 
 [TODO(Abel): one or two sentences on what this repository is.]
 
-> **Portfolio projects.** The projects in this repository use one fictional Kenyan institution and illustrative data. They are not audits, legal opinions, or certifications.
+> **Portfolio projects.** The projects in this repository use one fictional Kenyan golf club and illustrative data. They are not audits, legal opinions, or certifications.
 
 ## Who this is for
 
@@ -10,7 +10,7 @@
 
 ## Case study organisation
 
-All projects are set in the same fictional Kenyan institution, so the evidence connects across compliance, governance and security. See [scenario](scenario/).
+All projects are set in Kijani Heights Golf and Country Club, a fictional members' golf club in Kenya, so the evidence connects across compliance, governance and security. See the [organisation profile](scenario/organisation-profile.md).
 
 ## Projects
 
@@ -18,7 +18,7 @@ Built in six stages, in the order below.
 
 | Project | Stage | Area | Status | Folder |
 |---|---|---|---|---|
-| Compliance Management System | 1 and 2 | Compliance | Planned | [compliance-management-system](compliance-management-system/) |
+| Compliance Management System | 1 and 2 | Compliance | In progress | [compliance-management-system](compliance-management-system/) |
 | Enterprise Governance and Risk Dashboard | 3 | Governance | Planned | [enterprise-governance-risk-dashboard](enterprise-governance-risk-dashboard/) |
 | Data Protection and Privacy Assurance | 4 | Compliance; AI & Data Governance | Planned | [data-protection-privacy-assurance](data-protection-privacy-assurance/) |
 | AI Governance Framework | 4 | Governance; AI & Data Governance | Planned | [ai-governance-framework](ai-governance-framework/) |

@@ -1,0 +1,38 @@
+id,obligation_id,evidence_item,format,location,owner_role,status
+EV-01,OB-01,ODPC registration certificate,PDF,Compliance file > ODPC,Compliance Officer (DPO),Not yet collected
+EV-02,OB-02,Record of processing activities with lawful bases,Spreadsheet,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-03,OB-03,Published privacy notices and photos of CCTV signs,PDF and images,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-04,OB-04,Data subject request log,Spreadsheet,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-05,OB-05,Breach log and breach response procedure,Spreadsheet and PDF,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-06,OB-06,Completed DPIAs and approval records,PDF,Compliance file > DPIAs,Compliance Officer (DPO),Not yet collected
+EV-07,OB-07,Signed data processing agreements,PDF,Contracts register,Compliance Officer (DPO),Not yet collected
+EV-08,OB-08,Cross-border transfer assessments,PDF,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-09,OB-09,DPO appointment letter and ODPC notification,PDF,Compliance file > ODPC,General Manager,Not yet collected
+EV-10,OB-10,Marketing consent records and opt-out log,System export,Club management system,Membership and Events Manager,Not yet collected
+EV-11,OB-11,Retention schedule and disposal log,Spreadsheet,Compliance file > Data protection,Compliance Officer (DPO),Not yet collected
+EV-12,OB-12,Anti-bribery policy and gifts and hospitality register,PDF and spreadsheet,Compliance file > Anti-bribery,General Manager,Not yet collected
+EV-13,OB-13,Reporting channel records and any reports made,Log,Compliance file > Anti-bribery,General Manager,Not yet collected
+EV-14,OB-14,Signed employment contracts,PDF,HR system > Personnel files,HR Manager,Not yet collected
+EV-15,OB-15,Personnel file checklist results,Spreadsheet,HR system > Audits,HR Manager,Not yet collected
+EV-16,OB-16,Sexual harassment policy and staff acknowledgements,PDF,HR system > Policies,HR Manager,Not yet collected
+EV-17,OB-17,DOSH workplace registration certificate,PDF,Safety file,HR Manager,Not yet collected
+EV-18,OB-18,Safety committee minutes,PDF,Safety file,HR Manager,Not yet collected
+EV-19,OB-19,Signed risk assessments,PDF,Safety file,Course Manager,Not yet collected
+EV-20,OB-20,Fire audit report and drill records,PDF,Safety file,Head of Security,Not yet collected
+EV-21,OB-21,Work injury policy and accident register,PDF and spreadsheet,Safety file,HR Manager,Not yet collected
+EV-22,OB-22,PAYE returns and payment receipts,PDF,Finance file > Tax,Finance Manager,Not yet collected
+EV-23,OB-23,VAT returns and payment receipts,PDF,Finance file > Tax,Finance Manager,Not yet collected
+EV-24,OB-24,"NSSF, SHIF and Housing Levy remittance receipts",PDF,Finance file > Payroll,Finance Manager,Not yet collected
+EV-25,OB-25,Tax record retention index,Spreadsheet,Finance file > Tax,Finance Manager,Not yet collected
+EV-26,OB-26,Single business permit,PDF,Licence register,General Manager,Not yet collected
+EV-27,OB-27,Liquor licence,PDF,Licence register,F&B Manager,Not yet collected
+EV-28,OB-28,Food hygiene licence and medical certificates register,PDF and spreadsheet,Food safety file,F&B Manager,Not yet collected
+EV-29,OB-29,Water permit and monthly meter readings,PDF and spreadsheet,Environmental file,Course Manager,Not yet collected
+EV-30,OB-30,Environmental self-audit report,PDF,Environmental file,Course Manager,Not yet collected
+EV-31,OB-31,Pesticide purchase register with product registration numbers,Spreadsheet,Environmental file,Course Manager,Not yet collected
+EV-32,OB-32,Annual return confirmation and AGM minutes,PDF,Company secretarial file,General Manager (as Company Secretary),Not yet collected
+EV-33,OB-33,Committee minutes and election records,PDF,Company secretarial file,General Manager (as Company Secretary),Not yet collected
+EV-34,OB-34,Card security self-assessment and bank acknowledgement,PDF,Finance file > Payments,Finance Manager,Not yet collected
+EV-35,OB-35,Security provider licence and due diligence checklist,PDF,Contracts register,Head of Security,Not yet collected
+EV-36,OB-36,Golf union affiliation confirmation,PDF,Licence register,Captain,Not yet collected
+EV-37,OB-37,Annual applicability review record,PDF,Compliance file > Reviews,Compliance Officer (DPO),Not yet collected

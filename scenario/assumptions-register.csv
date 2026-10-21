@@ -1,1 +1,12 @@
 id,assumption,area,source_or_rationale
+AS-01,"The Club and all people, suppliers and figures are fictional.",All,Portfolio rule: no real organisation or personal data.
+AS-02,"The Club is a company limited by guarantee, not a society.",Legal,Sets which corporate filing rules apply. Many Kenyan clubs use one of the two forms.
+AS-03,The Club operates in Kiambu County and is subject to its county laws and permits.,Legal,"Sets which county liquor, business permit and public health rules apply."
+AS-04,The Club has about 165 employees.,People,Places the Club above the 20-employee thresholds in employment and safety law.
+AS-05,The Club is registered for VAT.,Tax,"Food, beverage and event sales exceed the registration threshold."
+AS-06,The Club is not a reporting institution under anti-money laundering law.,Legal,"It does not run a casino, real estate agency or other designated business."
+AS-07,The club management system is hosted in South Africa.,Data,Creates a cross-border transfer of member data.
+AS-08,The course is irrigated from a borehole.,Environment,Creates water permit and metering obligations.
+AS-09,"Caddies are independent and paid per round, not employees.",People,Simplifies scope; the classification itself is a risk to review in Stage 2.
+AS-10,Legal references were compiled from general knowledge as of October 2026 and have not been checked against the official texts.,Legal,Each reference is marked 'To verify' until Abel or a legal source confirms it.
+AS-11,"All numbers, dates and statuses are illustrative scenario values.",All,Portfolio rule: results are labelled as scenario results.

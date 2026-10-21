@@ -1,0 +1,23 @@
+control_id,control,control_type,owner_role,obligations_covered,status,test_planned
+CTL-01,"ODPC registration and DPO record, with a renewal reminder 90 days before expiry",Preventive,Compliance Officer (DPO),OB-01; OB-09,Proposed,Stage 2 gap assessment
+CTL-02,"Approved privacy notices on the website, app, membership forms and CCTV signs",Preventive,Compliance Officer (DPO),OB-03,Proposed,Stage 2 gap assessment
+CTL-03,Record of processing activities listing each data use and its lawful basis,Preventive,Compliance Officer (DPO),OB-02,Proposed,Stage 2 gap assessment
+CTL-04,Data subject request procedure and request log with response deadlines,Preventive,Compliance Officer (DPO),OB-04,Proposed,Stage 2 gap assessment
+CTL-05,Breach response procedure with a 72-hour notification clock and breach log,Corrective,Compliance Officer (DPO),OB-05,Proposed,Stage 2 gap assessment
+CTL-06,DPIA procedure that must be completed before new high-risk processing is approved,Preventive,Compliance Officer (DPO),OB-06,Proposed,Stage 2 gap assessment
+CTL-07,Data processing agreements and a cross-border transfer check for every processor,Preventive,Compliance Officer (DPO),OB-07; OB-08,Proposed,Stage 2 gap assessment
+CTL-08,Marketing consent records and a working opt-out on every message,Preventive,Membership and Events Manager,OB-10,Proposed,Stage 2 gap assessment
+CTL-09,Retention schedule and quarterly disposal log,Preventive,Compliance Officer (DPO),OB-11,Proposed,Stage 2 gap assessment
+CTL-10,"Anti-bribery policy, gifts and hospitality register, and a confidential reporting channel",Preventive,General Manager,OB-12; OB-13,Proposed,Stage 2 gap assessment
+CTL-11,"Personnel file checklist covering contracts and required records, checked each quarter",Detective,HR Manager,OB-14; OB-15,Proposed,Stage 2 gap assessment
+CTL-12,"Sexual harassment policy communicated at induction, with a grievance channel",Preventive,HR Manager,OB-16,Proposed,Stage 2 gap assessment
+CTL-13,"Safety management file: DOSH registration, committee minutes, risk assessments, fire audit and drill records",Preventive,HR Manager,OB-17; OB-18; OB-19; OB-20,Proposed,Stage 2 gap assessment
+CTL-14,Work injury insurance policy and accident register,Corrective,HR Manager,OB-21,Proposed,Stage 2 gap assessment
+CTL-15,Statutory payments calendar with maker-checker approval of each filing,Preventive,Finance Manager,OB-22; OB-23; OB-24; OB-25,Proposed,Stage 2 gap assessment
+CTL-16,Licence and permit register with renewal reminders 60 days before expiry,Preventive,General Manager,OB-26; OB-27; OB-36,Proposed,Stage 2 gap assessment
+CTL-17,"Food safety file: hygiene licence, staff medical certificates, inspection reports",Preventive,F&B Manager,OB-28,Proposed,Stage 2 gap assessment
+CTL-18,"Environmental file: water permit, monthly meter readings, self-audit, pesticide purchase register",Preventive,Course Manager,OB-29; OB-30; OB-31,Proposed,Stage 2 gap assessment
+CTL-19,"Company secretarial calendar: annual return, statutory registers, AGM and committee minutes",Preventive,General Manager (as Company Secretary),OB-32; OB-33,Proposed,Stage 2 gap assessment
+CTL-20,Annual card security self-assessment submitted to the bank,Detective,Finance Manager,OB-34,Proposed,Stage 2 gap assessment
+CTL-21,"Supplier due diligence checklist, including licence checks for security providers",Preventive,Head of Security,OB-35,Proposed,Stage 2 gap assessment
+CTL-22,Regulatory change-monitoring procedure and annual applicability review,Detective,Compliance Officer (DPO),OB-37; all,Proposed,Stage 2 gap assessment

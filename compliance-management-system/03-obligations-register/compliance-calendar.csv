@@ -1,0 +1,25 @@
+id,obligation_id,activity,frequency,due_rule,owner_role,reminder_before,next_due
+CAL-01,OB-22,File and pay PAYE,Monthly,By the 9th of the following month,Finance Manager,5 days,2026-11-09
+CAL-02,OB-24,"Remit NSSF, SHIF and Housing Levy",Monthly,By each statutory deadline (to verify),Finance Manager,5 days,2026-11-09
+CAL-03,OB-23,File and pay VAT,Monthly,By the 20th of the following month,Finance Manager,5 days,2026-11-20
+CAL-04,OB-29,Record borehole meter readings,Monthly,Last working day of the month,Course Manager,3 days,2026-10-30
+CAL-05,OB-11,Run the data disposal routine,Quarterly,Last week of each quarter,Compliance Officer (DPO),10 days,2026-12-21
+CAL-06,OB-18,Hold the health and safety committee meeting,Quarterly,Second week of each quarter,HR Manager,14 days,2027-01-12
+CAL-07,OB-15,Check personnel files against the checklist,Quarterly,End of each quarter,HR Manager,10 days,2026-12-31
+CAL-08,OB-26,Renew the single business permit,Annually,By 31 March (scenario date),General Manager,60 days,2027-03-31
+CAL-09,OB-27,Renew the liquor licence,Annually,By 30 June (scenario date),F&B Manager,60 days,2027-06-30
+CAL-10,OB-28,Renew the food hygiene licence,Annually,By 31 January (scenario date),F&B Manager,60 days,2027-01-31
+CAL-11,OB-20,Fire safety audit and fire drill,Annually,By 30 September (scenario date),Head of Security,60 days,2027-09-30
+CAL-12,OB-30,Environmental self-audit,Annually,By 31 August (scenario date),Course Manager,60 days,2027-08-31
+CAL-13,OB-19,Review workplace risk assessments,Annually,By 31 May (scenario date),Course Manager and F&B Manager,30 days,2027-05-31
+CAL-14,OB-21,Renew work injury insurance,Annually,"By the policy renewal date, 1 July (scenario date)",HR Manager,45 days,2027-07-01
+CAL-15,OB-32,File the annual return and hold the AGM,Annually,Within the statutory period after the 31 December year end,General Manager (as Company Secretary),60 days,2027-04-30
+CAL-16,OB-34,Submit the card security self-assessment,Annually,"By the date in the merchant agreement, 31 March (scenario date)",Finance Manager,30 days,2027-03-31
+CAL-17,OB-35,Confirm the security provider's licence,Annually,"At contract renewal, 1 February (scenario date)",Head of Security,30 days,2027-02-01
+CAL-18,OB-36,Renew golf union affiliation,Annually,By 31 January (scenario date),Captain,30 days,2027-01-31
+CAL-19,OB-01,Renew ODPC registration,Every 24 months,"Before expiry, 15 May 2027 (scenario date)",Compliance Officer (DPO),90 days,2027-05-15
+CAL-20,OB-37,Annual applicability review of the whole register,Annually,By 31 October,Compliance Officer (DPO),30 days,2026-10-31
+CAL-21,OB-12,Review anti-bribery procedures and the gifts register,Annually,By 30 November (scenario date),General Manager,30 days,2026-11-30
+CAL-22,OB-05,Breach notification to the ODPC,Event-driven,Within 72 hours of becoming aware,Compliance Officer (DPO),Immediate,When triggered
+CAL-23,OB-06,DPIA for new high-risk processing,Event-driven,Before the processing starts,Compliance Officer (DPO),At project approval,When triggered
+CAL-24,OB-13,Bribery report to the authorities,Event-driven,Within 24 hours (to verify),General Manager,Immediate,When triggered

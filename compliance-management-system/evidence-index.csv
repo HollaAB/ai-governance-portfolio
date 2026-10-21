@@ -1,1 +1,6 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,"37 obligations were identified, of which 36 apply to the Club.",Obligations register,03-obligations-register/compliance-register.csv,ISO 37301 clause 4.5 (compliance obligations)
+EI-02,"Every applicable obligation has an owner, a proposed control and an evidence item.","Register, controls matrix and evidence register",03-obligations-register/,Validation rules in the data dictionary
+EI-03,Anti-money laundering reporting does not apply to the Club.,Applicability reason for OB-37,03-obligations-register/compliance-register.csv,Scenario assumption AS-06
+EI-04,The Club has 24 recurring or event-driven compliance deadlines.,Compliance calendar,03-obligations-register/compliance-calendar.csv,Obligations with a frequency other than continuous
+EI-05,No control has been tested yet.,Controls matrix status column,03-obligations-register/obligations-to-controls-matrix.csv,Assumption CMS-AS-03

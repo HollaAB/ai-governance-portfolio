@@ -1,0 +1,16 @@
+id,time,event,action,who,phase_or_gap
+T-01,Sat 07:40,Receptionist enters the shared password on a phishing page,None,Reception (shared account),Detection: none
+T-02,Sat 09:10,Attacker exports the member list from FairwayOne,None,Attacker,Detection: none
+T-03,Sat 11:30,First member reports a fake paybill SMS to reception,Reception logs the call,Receptionist,Detection by a member
+T-04,Sat 12:00,Membership and Events Manager told after the third call,Asks ICT Officer to check,Membership and Events Manager,Report
+T-05,Sat 12:45,DPO told; Club treated as aware of a possible breach,72-hour clock starts,Compliance Officer (DPO),Triage: Sev 1
+T-06,Sat 13:30,ICT support firm resets the reception password and ends sessions,Containment,ICT support firm,Contain
+T-07,Sat 13:45,Team tries to reach FairwayOne; no weekend contact on file,Email sent; no answer,ICT Officer,Gap: SF-04
+T-08,Sat 14:00,Chairman told,Escalation,General Manager,Escalate
+T-09,Sat 16:00,Team debates warning members; no message template; decision deferred to Monday,None,General Manager,Gap: SF-09
+T-10,Mon 08:30,FairwayOne confirms the export,Facts received,FairwayOne,Investigate
+T-11,Mon 11:00,"DPO assesses: names and phones of 1,850 members exported, fraud attempts under way; notifiable",Decision recorded,Compliance Officer (DPO),Assess
+T-12,Mon 15:00,ODPC notified (about 50 hours after awareness),Notification sent,Compliance Officer (DPO),Notify: within 72 hours
+T-13,Mon 17:00,SMS and email warning to all members with the correct paybill (about 52 hours after awareness),Members warned,Membership and Events Manager,Notify: later than the 24-hour target
+T-14,Tue 10:00,Named accounts with MFA set up for reception; phishing email blocked,Recovery,ICT Officer,Recover
+T-15,Fri,Lessons-learned review; actions recorded,Report,Incident lead,Learn

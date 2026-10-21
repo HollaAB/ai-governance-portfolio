@@ -1,0 +1,11 @@
+id,title,severity,condition,recommendation,owner_role,action_ref,due_date,status
+SF-01,Leaver accounts still active,High,"4 leaver accounts active, one with billing admin rights.",Disable at once; same-day leaver step in the access policy.,ICT Officer,SCA-01,2027-01-14,Closed
+SF-02,ICT support firm admin accounts without MFA,High,2 generic admin accounts with no multi-factor authentication.,Named admin accounts with MFA; remove generic accounts.,ICT Officer,SCA-02,2027-01-21,Closed
+SF-03,Shared logins and excess rights,Medium,Shared reception logins in FairwayOne and the chatbot console; cashier refund rights; guard export rights.,Named accounts for reception; remove excess rights.,ICT Officer,SCA-03,2027-02-28,In progress
+SF-04,No supplier alerting or out-of-hours contact,Medium,FairwayOne gave no alert on a large export and had no weekend contact.,Agree export alerts and an out-of-hours line; add to the contract and contact list.,Compliance Officer (DPO),SCA-04,2027-03-31,Open
+SF-05,Recovery point objective not met,Medium,Nightly backups mean up to 24 hours of bookings and billing could be lost; target is 1 to 4 hours.,Ask FairwayOne for more frequent backups or accept the risk formally.,ICT Officer,SCA-05,2027-03-31,Open
+SF-06,Fuel store and staff car park not covered,Medium,No camera on the fuel tank; poor lighting at the store and the far car park.,Add a camera and lighting.,Head of Security,SCA-06,2027-04-30,Open
+SF-07,Key register incomplete,Low,"24 of 180 keys unaccounted for, including cash office keys.",Complete the register; rekey the cash office.,Head of Security,SCA-07,2027-05-31,Open
+SF-08,Staff fall for phishing,Medium,9 of 40 staff clicked and 4 entered a password in the simulation.,Awareness training for all office staff; repeat the simulation in 6 months.,HR Manager,SCA-08,2027-04-30,Open
+SF-09,No member fraud warning template,Low,The member warning was delayed to 52 hours in the exercise.,Pre-approve a warning; DPO can send it within 24 hours.,Membership and Events Manager,SCA-09,2027-02-28,Open
+SF-10,No spare CCTV recorder,Medium,Cameras were off for 9 hours in the recovery test.,Buy a spare recorder or back up key cameras to the cloud.,Head of Security,SCA-10,2027-04-30,Open

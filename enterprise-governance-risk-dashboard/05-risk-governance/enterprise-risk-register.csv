@@ -1,5 +1,5 @@
 id,risk,category,score,rating,appetite,within_appetite,kri_ref,oversight_committee,owner_role,treatment,source
-R-01,Personal data breach through cloud systems or supplier access,Data protection and privacy,20,Critical,Low,No,KRI-02,Finance and Audit sub-committee,Compliance Officer (DPO),Reduce,Source: compliance-management-system/risk-and-control-register.csv
+R-01,Personal data breach through cloud systems or supplier access,Data protection and privacy,15,High,Low,No,KRI-02,Finance and Audit sub-committee,Compliance Officer (DPO),Reduce,Re-scored after Stage 5
 R-02,Unlawful processing by the ANPR pilot or Kijani Assist,Data protection and privacy,8,Medium,Low,Yes,KRI-01,Finance and Audit sub-committee,Compliance Officer (DPO),Reduce,Re-scored after Stage 4 measures
 R-03,Member data transferred abroad without safeguards,Data protection and privacy,4,Low,Low,Yes,KRI-01,Finance and Audit sub-committee,Compliance Officer (DPO),Reduce,Re-scored after Stage 4 measures
 R-04,Licence or permit lapses,Legal and regulatory compliance,12,High,Low,No,KRI-03,Finance and Audit sub-committee,General Manager,Reduce,Source: compliance-management-system/risk-and-control-register.csv
@@ -9,7 +9,7 @@ R-07,Food safety incident,Health and safety,8,Medium,Averse,No,KRI-03,Security a
 R-08,Employment claims from missing contracts,Legal and regulatory compliance,9,Medium,Low,Yes,KRI-01,Finance and Audit sub-committee,HR Manager,Reduce,Source: compliance-management-system/risk-and-control-register.csv
 R-09,Caddies treated as employees by a court or regulator,Legal and regulatory compliance,8,Medium,Low,Yes,,Finance and Audit sub-committee,HR Manager,Accept and monitor,Source: compliance-management-system/risk-and-control-register.csv
 R-10,Account data disclosed through the chatbot,Data protection and privacy,4,Low,Low,Yes,KRI-08,Finance and Audit sub-committee,ICT Officer,Reduce,Re-scored after Stage 4 measures
-R-11,Club management system outage,Technology and operations,9,Medium,Moderate,Yes,KRI-06,Security and Safety sub-committee,ICT Officer,Reduce in Stage 5,Source: compliance-management-system/risk-and-control-register.csv
+R-11,Club management system outage,Technology and operations,6,Medium,Moderate,Yes,KRI-06,Security and Safety sub-committee,ICT Officer,Reduce in Stage 5,Re-scored after Stage 5
 R-12,Management Committee lacks visibility of compliance,Legal and regulatory compliance,9,Medium,Low,Yes,KRI-01,Finance and Audit sub-committee,General Manager,Reduce,Source: compliance-management-system/risk-and-control-register.csv
 R-13,Environmental breach from over-abstraction or chemical use,Environment,6,Medium,Low,Yes,KRI-03,Finance and Audit sub-committee,Course Manager,Reduce,Source: compliance-management-system/risk-and-control-register.csv
 R-14,Card payment data compromise,Technology and operations,8,Medium,Moderate,Yes,KRI-06,Security and Safety sub-committee,Finance Manager,Monitor,Source: compliance-management-system/risk-and-control-register.csv

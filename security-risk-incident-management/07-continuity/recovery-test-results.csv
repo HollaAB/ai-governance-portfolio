@@ -1,0 +1,5 @@
+id,test,processes,target,result,outcome,finding_ref
+RT-01,Restore member data from the FairwayOne backup to a test system,BP-01; BP-03,4 hours to restore; data as of the previous night,5 hours; data 22 hours old,"Not met: backups are nightly, so data newer than the last backup is lost",SF-05
+RT-02,Run point of sale in offline mode for a 2-hour lunch service,BP-02,No sales lost,No sales lost; re-sync took 20 minutes,Met,
+RT-03,Run a Saturday tee sheet manually for 3 hours,BP-01,All groups started on time,All groups started on time,Met,
+RT-04,Recorder failure: switch cameras to a spare recorder,BP-04,Under 2 hours,No spare recorder; cameras off for 9 hours until repair,Not met,SF-10

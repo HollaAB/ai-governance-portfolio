@@ -1,0 +1,15 @@
+id,asset,type,criticality_1_to_5,owner_role,main_concern
+AS-01,Member records in FairwayOne,Information,5,Membership and Events Manager,"Confidentiality, integrity"
+AS-02,Billing and payment records,Information,5,Finance Manager,"Integrity, availability"
+AS-03,FairwayOne club management system,System,5,ICT Officer,Availability
+AS-04,Point-of-sale terminals,System,4,F&B Manager,"Availability, integrity"
+AS-05,Email and office suite,System,4,ICT Officer,"Confidentiality, availability"
+AS-06,Kijani Assist console,System,4,Membership and Events Manager,Confidentiality
+AS-07,Payroll bureau portal,System,4,HR Manager,Confidentiality
+AS-08,CCTV recorder and cameras,System,4,Head of Security,Availability
+AS-09,Gate barriers and ANPR,Physical and system,4,Head of Security,Availability
+AS-10,Clubhouse cash office and safe,Physical,4,Finance Manager,"Confidentiality, integrity"
+AS-11,"Maintenance yard, fuel and chemical store",Physical,3,Course Manager,Safety
+AS-12,Course machinery,Physical,3,Course Manager,Availability
+AS-13,Staff and member laptops and phones used for Club work,Device,3,ICT Officer,Confidentiality
+AS-14,Paper HR and member files,Information,3,HR Manager,Confidentiality

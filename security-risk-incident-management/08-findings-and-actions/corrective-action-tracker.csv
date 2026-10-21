@@ -1,0 +1,11 @@
+id,finding_ref,action,owner_role,priority,due_date,status,closure_evidence
+SCA-01,SF-01,Disable at once; same-day leaver step in the access policy.,ICT Officer,High,2027-01-14,Closed,All 4 disabled 14 January 2027; HR now emails the ICT Officer on the last day
+SCA-02,SF-02,Named admin accounts with MFA; remove generic accounts.,ICT Officer,High,2027-01-21,Closed,Named accounts with MFA live 19 January 2027; generic accounts removed
+SCA-03,SF-03,Named accounts for reception; remove excess rights.,ICT Officer,Medium,2027-02-28,In progress,Excess rights removed 14 January; named reception accounts in progress
+SCA-04,SF-04,Agree export alerts and an out-of-hours line; add to the contract and contact list.,Compliance Officer (DPO),Medium,2027-03-31,Open,
+SCA-05,SF-05,Ask FairwayOne for more frequent backups or accept the risk formally.,ICT Officer,Medium,2027-03-31,Open,
+SCA-06,SF-06,Add a camera and lighting.,Head of Security,Medium,2027-04-30,Open,
+SCA-07,SF-07,Complete the register; rekey the cash office.,Head of Security,Low,2027-05-31,Open,
+SCA-08,SF-08,Awareness training for all office staff; repeat the simulation in 6 months.,HR Manager,Medium,2027-04-30,Open,
+SCA-09,SF-09,Pre-approve a warning; DPO can send it within 24 hours.,Membership and Events Manager,Low,2027-02-28,Open,
+SCA-10,SF-10,Buy a spare recorder or back up key cameras to the cloud.,Head of Security,Medium,2027-04-30,Open,

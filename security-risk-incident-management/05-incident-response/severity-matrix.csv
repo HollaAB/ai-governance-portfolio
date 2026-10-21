@@ -1,0 +1,5 @@
+severity,examples,who_is_told,response_starts,updates
+Sev 1 Critical,"Large personal data breach, ransomware, safety threat, or Club systems down on a competition day","General Manager, Chairman, DPO, ICT Officer, Head of Security",Within 30 minutes,Hourly
+Sev 2 High,"Breach affecting a few people, compromised staff account, supplier incident, CCTV down","General Manager, DPO, ICT Officer",Within 2 hours,Every 4 hours
+Sev 3 Medium,"Malware on one device, suspicious login blocked, lost device that is encrypted","ICT Officer, DPO",Within 1 working day,Daily
+Sev 4 Low,"Spam, a single phishing email reported and deleted",ICT Officer,Within 2 working days,On closure

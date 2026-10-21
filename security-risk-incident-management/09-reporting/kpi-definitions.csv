@@ -1,0 +1,8 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+SKPI-01,Accounts appropriate,Share of reviewed accounts matching the role access matrix,Appropriate / reviewed,100%,"58% (14 of 24, January 2027)",Quarterly,ICT Officer,access-review.csv
+SKPI-02,Leaver accounts disabled on time,Leaver accounts disabled on the last working day,On time / leavers,100%,0% before January 2027 (4 late),Monthly,HR Manager,Access review and HR leaver list
+SKPI-03,Admin accounts with MFA,Privileged accounts with multi-factor authentication,With MFA / admin accounts,100%,100% after SF-02 (was 75%, 6 of 8),Monthly,ICT Officer,access-review.csv
+SKPI-04,Phishing click rate,Share of staff who click in a simulation,Clicked / emailed,Below 5%,23% (9 of 40),Every 6 months,HR Manager,phishing-simulation-results.csv
+SKPI-05,Phishing report rate,Share of staff who report a simulated phish,Reported / emailed,Above 50%,15% (6 of 40),Every 6 months,HR Manager,phishing-simulation-results.csv
+SKPI-06,Recovery tests met,Recovery tests that met their target,Met / tests,100%,50% (2 of 4),Yearly,ICT Officer,recovery-test-results.csv
+SKPI-07,Security findings overdue,Open security actions past their due date,Overdue / open,0%,0%,Monthly,ICT Officer,corrective-action-tracker.csv

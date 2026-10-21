@@ -1,0 +1,25 @@
+account,system,holder_role,access,current_staff,mfa_on,appropriate,action
+USR-01,FairwayOne,General Manager,Read all,Yes,Yes,Yes,
+USR-02,FairwayOne,Finance Manager,Billing admin,Yes,Yes,Yes,
+USR-03,FairwayOne,Membership and Events Manager,Member admin,Yes,Yes,Yes,
+USR-04,FairwayOne,Reception (shared),Bookings and member lookup,Yes,No,No,Shared by 5 staff; replace with named accounts (SF-03)
+USR-05,FairwayOne,Former Membership Officer (left June 2026),Member admin,No (leaver),No,No,Disabled 14 January 2027 (SF-01)
+USR-06,FairwayOne,Former reception staff (left September 2026),Bookings,No (leaver),No,No,Disabled 14 January 2027 (SF-01)
+USR-07,FairwayOne,Former Assistant Accountant (left March 2026),Billing admin,No (leaver),No,No,Disabled 14 January 2027 (SF-01)
+USR-08,FairwayOne,ICT Officer,System admin,Yes,Yes,Yes,
+USR-09,FairwayOne,ICT support firm (generic admin),System admin,Yes,No,No,Generic name and no MFA; replace with named accounts (SF-02)
+USR-10,Point of sale,Cashier A,Sales and refunds,Yes,Yes,No,Refund rights not needed; removed (SF-03)
+USR-11,Point of sale,Cashier B,Sales,Yes,Yes,Yes,
+USR-12,Point of sale,F&B Manager,Manager,Yes,Yes,Yes,
+USR-13,Email,General Manager,User,Yes,Yes,Yes,
+USR-14,Email,Former Course Manager (left August 2026),User,No (leaver),Yes,No,"Mailbox converted to shared, login disabled (SF-01)"
+USR-15,Email,ICT support firm (generic admin),Admin,Yes,No,No,No MFA (SF-02)
+USR-16,Email,ICT Officer,Admin,Yes,Yes,Yes,
+USR-17,Payroll portal,HR Manager,Prepare,Yes,Yes,Yes,
+USR-18,Payroll portal,Finance Manager,Approve,Yes,Yes,Yes,
+USR-19,CCTV recorder,Head of Security,Admin,Yes,Yes,Yes,
+USR-20,CCTV recorder,Guard supervisor,View live and export,Yes,Yes,No,Export not needed; removed. Viewing log in use since December 2026
+USR-21,CCTV recorder,ICT Officer,Admin,Yes,Yes,Yes,
+USR-22,Kijani Assist console,Membership and Events Manager,Admin,Yes,Yes,Yes,
+USR-23,Kijani Assist console,Reception (shared),Read conversations,Yes,No,No,Shared login (SF-03)
+USR-24,Kijani Assist console,ICT Officer,Admin,Yes,Yes,Yes,

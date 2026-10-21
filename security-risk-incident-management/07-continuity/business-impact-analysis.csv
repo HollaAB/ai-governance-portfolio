@@ -1,0 +1,8 @@
+id,process,depends_on,recovery_time_objective,recovery_point_objective,maximum_tolerable_downtime,workaround,owner_role
+BP-01,Member check-in and tee-time bookings,"FairwayOne, member app",4 hours,1 hour,8 hours,Manual tee sheets at the starter's hut,Captain
+BP-02,Food and beverage sales,Point of sale,1 hour,0 (offline mode),4 hours,Offline mode; paper chits charged later,F&B Manager
+BP-03,Billing and payments,"FairwayOne, bank, M-Pesa",24 hours,4 hours,5 days,Delay billing run; take M-Pesa at reception,Finance Manager
+BP-04,Gate access and CCTV,"Barriers, ANPR, recorder",2 hours,24 hours,8 hours,Guards at the barrier with the visitor register,Head of Security
+BP-05,Payroll,Payroll bureau,3 days,1 day,10 days,Bureau's own continuity plan; manual payment run,HR Manager
+BP-06,Member communications,"Email, WhatsApp, Kijani Assist",24 hours,1 day,3 days,Phone tree and notice boards,Membership and Events Manager
+BP-07,Events and banqueting,"Events folder, point of sale",24 hours,1 day,3 days,Printed event sheets,Membership and Events Manager

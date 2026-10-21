@@ -1,0 +1,12 @@
+role,FairwayOne,Point of sale,Email,Payroll portal,HR files,CCTV recorder,Kijani Assist console
+General Manager,Read all,Reports,User,Approve,Read,None,Read
+Finance Manager,Billing admin,Manager (no sales),User,Approve,None,None,None
+HR Manager,None,None,User,Prepare,Full,None,None
+Membership and Events Manager,Member admin,None,User,None,None,None,Admin
+Reception staff,Bookings and member lookup,None,User,None,None,None,Read conversations
+Cashier,None,Sales only,None,None,None,None,None
+F&B Manager,None,Manager (refunds),User,None,None,None,None
+Head of Security,Gate lists,None,User,None,None,Admin,None
+Guard (Linda Guard Services),None,None,None,None,None,View live,None
+ICT Officer,System admin,Admin,Admin,None,None,Admin,Admin
+ICT support firm,"System admin (named, MFA)","Admin (named, MFA)","Admin (named, MFA)",None,None,None,None

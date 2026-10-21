@@ -1,1 +1,6 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,Account takeover by phishing is the top security risk (score 20).,Security risk register,03-security-assessment/security-risk-register.csv,Risk scoring (Stage 2 scale)
+EI-02,14 of 24 reviewed accounts were appropriate; 4 leaver accounts were active.,Access review,04-access-review/access-review.csv,Access control policy
+EI-03,23% of staff clicked a simulated phishing link.,Phishing results,04-access-review/phishing-simulation-results.csv,Awareness target below 5%
+EI-04,The ODPC deadline was met in the exercise; the member warning was not.,Incident chronology,06-tabletop-exercise/incident-chronology.csv,"Breach response plan; Data Protection Act 2019, s.43"
+EI-05,2 of 4 recovery tests met their targets.,Recovery test results,07-continuity/recovery-test-results.csv,Business impact analysis objectives

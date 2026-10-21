@@ -1,1 +1,6 @@
 id,assumption,area,source_or_rationale
+SEC-AS-01,All scenario assumptions AS-01 to AS-11 apply.,All,See scenario/assumptions-register.csv.
+SEC-AS-02,No technical testing of real systems was done; the access review and recovery tests use the Club's fictional records.,Testing,Portfolio rule: only authorised testing; this is a fictional organisation.
+SEC-AS-03,The phishing simulation was authorised in writing by the General Manager and used a harmless training link.,Testing,Authorised awareness testing only.
+SEC-AS-04,The tabletop exercise was held on 20 January 2027 (scenario date) with the incident team; no live systems were touched.,Exercise,Discussion-based exercise.
+SEC-AS-05,"Account identifiers in the access review are codes (USR-01 to USR-24), not real names.",Data,No personal data in the portfolio.

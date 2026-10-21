@@ -1,0 +1,12 @@
+id,risk,threat_ref,likelihood,impact,score,rating,treatment,enterprise_risk_ref,finding_refs
+SR-01,Account takeover through phishing,TV-01,4,5,20,Critical,"Reduce: individual accounts, MFA, awareness training",R-01,SF-03; SF-08
+SR-02,Unauthorised access by former staff,TV-02,4,4,16,High,"Reduce: same-day leaver process, quarterly access review",R-01,SF-01
+SR-03,FairwayOne outage or breach,TV-03,3,5,15,High,"Reduce: weekend contact, restore tests, manual fallback",R-01; R-11,SF-04; SF-05
+SR-04,Supplier admin account misuse,TV-04,3,5,15,High,"Reduce: MFA for all admin accounts, logging",R-01,SF-02
+SR-05,Point-of-sale fraud,TV-05,3,3,9,Medium,Reduce: remove cashier refund rights,R-14,SF-03
+SR-06,No footage when needed,TV-06,3,3,9,Medium,Reduce: spare recorder or cloud backup of key cameras,R-15,SF-10
+SR-07,Cash office theft,TV-07,2,3,6,Medium,"Reduce: complete key register, rekey safe room",,SF-07
+SR-08,Fuel and chemical store theft or misuse,TV-08,3,3,9,Medium,Reduce: camera and lighting at the store,R-13,SF-06
+SR-09,Tailgating at the gate,TV-09,3,2,6,Medium,Accept with guard presence on busy days,,
+SR-10,Lost device with Club data,TV-10,3,3,9,Medium,Reduce: device encryption and remote wipe,R-01,
+SR-11,Paper files exposed,TV-11,2,3,6,Medium,"Reduce: locked cabinets, clear-desk rule",R-01,

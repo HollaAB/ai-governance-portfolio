@@ -1,0 +1,7 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+DKPI-01,Processing activities recorded,"Activities in the inventory with purpose, lawful basis and retention",Complete activities / all activities,100%,100% (14 of 14),Quarterly,Compliance Officer (DPO),personal-data-inventory.csv
+DKPI-02,High-risk activities with a DPIA,Activities marked high-risk that have an approved DPIA,With DPIA / high-risk,100%,100% (3 of 3),Quarterly,Compliance Officer (DPO),personal-data-inventory.csv
+DKPI-03,Processors under agreement,Processors with a signed data processing agreement,Signed / processors,100%,67% (4 of 6),Quarterly,Compliance Officer (DPO),processor-register.csv
+DKPI-04,Requests answered on time,Data subject requests answered by the internal target,On time / closed requests,100%,"100% (4 of 4, Q4 2026)",Monthly,Compliance Officer (DPO),data-subject-request-log.csv
+DKPI-05,Breach assessment within 24 hours,Breaches assessed for notification within 24 hours,Within 24 hours / breaches,100%,100% (1 of 1),Per breach,Compliance Officer (DPO),breach-log.csv
+DKPI-06,Staff trained,Staff who handle personal data trained in the last 2 years,Trained / staff in scope,95%,0% (training due March 2027),Quarterly,HR Manager,Training records

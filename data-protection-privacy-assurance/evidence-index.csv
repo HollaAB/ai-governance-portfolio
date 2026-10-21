@@ -1,1 +1,8 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,"The Club has 14 processing activities, 3 of them high-risk.",Personal data inventory,03-data-inventory/personal-data-inventory.csv,"Data Protection Act 2019, s.25 and s.30"
+EI-02,ANPR and Kijani Assist were assessed and approved with conditions.,"DPIA-01, DPIA-02",04-dpia/,"Data Protection Act 2019, s.31"
+EI-03,4 of 6 processors are under a written agreement.,Processor register,05-processors/processor-register.csv,Compliance obligation OB-07
+EI-04,Both transfers outside Kenya have safeguards.,Transfer assessment,05-processors/cross-border-transfer-assessment.md,"Data Protection Act 2019, s.48 and s.49"
+EI-05,CCTV retention reduced to 30 days; 412 old files shredded.,Disposal log,06-retention/disposal-log.csv,"Data Protection Act 2019, s.39"
+EI-06,All requests in Q4 2026 were answered on time.,Request log,07-rights-and-notices/data-subject-request-log.csv,"Data Protection Act 2019, s.26"
+EI-07,One breach was assessed within 24 hours and correctly judged not notifiable.,Breach log,08-breach-response/breach-log.csv,"Data Protection Act 2019, s.43"

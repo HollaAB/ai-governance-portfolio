@@ -1,0 +1,16 @@
+id,record_type,retention_period,trigger,disposal_method,rationale
+RS-01,Member records (former members),5 years after membership ends,Membership end date,Secure deletion in FairwayOne; shred paper files,"Tax and dispute periods (5 years, to verify)"
+RS-02,Billing and payment records,5 years after the end of the financial year,Year end,"Archive, then delete","Tax Procedures Act 2015, s.23 (to verify)"
+RS-03,Booking and competition records,3 years; handicap records while a member,Booking date,Automatic deletion,Operational need
+RS-04,Kijani Assist conversation logs,90 days,Conversation date,Automatic deletion by Sauti AI Labs,Quality checks; DPIA-02
+RS-05,Marketing consents and preferences,"Until consent is withdrawn, then 1 year as proof",Withdrawal date,"Delete contact, keep withdrawal record",Proof of consent
+RS-06,CCTV footage,"30 days, unless kept for an incident",Recording date,Automatic overwrite,DPIA-01
+RS-07,ANPR logs,30 days,Entry date,Automatic deletion,DPIA-01
+RS-08,Visitor register,1 year,Visit date,Shred or delete,Security investigations
+RS-09,Employee records,5 years after employment ends,Leaving date,Secure deletion and shredding,"Employment Act 2007, s.74 (period to verify)"
+RS-10,Food handlers' medical certificates,Duration of employment plus 1 year,Leaving date,Shred,Public health requirements
+RS-11,Caddie register and payment records,5 years after last engagement,Last round worked,Delete,Tax and dispute periods
+RS-12,Recruitment records (unsuccessful),6 months after the decision,Decision date,Delete,Defend recruitment claims
+RS-13,Event guest lists,3 months after the event,Event date,Delete,Event follow-up
+RS-14,Data subject request log,3 years after closure,Closure date,Delete,Evidence of compliance
+RS-15,Breach log and incident files,5 years after closure,Closure date,Delete,Evidence of compliance

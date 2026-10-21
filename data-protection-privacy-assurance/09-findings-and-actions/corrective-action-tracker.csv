@@ -1,0 +1,6 @@
+id,finding_ref,action,owner_role,priority,due_date,status,closure_evidence
+DCA-01,DPF-01,"Sign an agreement covering CCTV viewing, the visitor register and confidentiality.",Head of Security,Medium,2027-01-31,Open,
+DCA-02,DPF-02,Sign an agreement or share only names and numbers needed.,Membership and Events Manager,Low,2027-03-31,Open,
+DCA-03,DPF-03,Complete disposal DL-04 by 31 January 2027.,Compliance Officer (DPO),Medium,2027-01-31,In progress,
+DCA-04,DPF-04,Train all staff who handle personal data by March 2027; add to induction.,HR Manager,Medium,2027-03-31,Open,
+DCA-05,DPF-05,Use the new viewing log and check it monthly.,Head of Security,Low,2027-01-31,Closed,Viewing log in use since 1 December 2026

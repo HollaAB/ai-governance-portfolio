@@ -1,1 +1,7 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,The Club uses or has proposed 7 AI systems; 2 are High risk and 1 is not permitted.,Inventory and classification,03-ai-inventory/ai-system-inventory.csv; 04-classification/use-case-classification.csv,Classification method
+EI-02,Kijani Assist v1.0 failed identity and adversarial tests; v1.1 passed them.,Test results,05-impact-assessment/test-results.csv,Testing protocol targets
+EI-03,Every AI system in use has a human who can override it.,Human oversight matrix,06-oversight/human-oversight-matrix.csv,AI governance charter rules
+EI-04,Sauti AI Labs scored 35 of 45 in due diligence.,Vendor checklist,07-third-party/vendor-ai-due-diligence-checklist.csv,Charter: vendor checks
+EI-05,All changes since December 2026 were tested and approved before release.,Model change register,07-third-party/model-change-register.csv,Lifecycle: change control
+EI-06,Three AI incidents were recorded and closed.,AI incident register,08-incidents/ai-incident-register.csv,Charter: monitoring

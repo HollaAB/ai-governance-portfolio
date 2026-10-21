@@ -1,0 +1,4 @@
+id,date,system,description,people_affected,severity,response,root_cause,status
+AII-01,2026-09-12,Kijani Assist,Gave the wrong date for the Club Championship,14 members contacted the Club,Low,Correct date sent to all members; knowledge base updated,Outdated event list in the knowledge base,Closed
+AII-02,2026-10-19,Gate ANPR,Misread plate admitted a visitor's vehicle as a member's,1 visitor,Low,Guard procedure for checking admitted vehicles; misread rate monitored monthly,Similar plate and poor lighting,Closed
+AII-03,2026-11-25,Kijani Assist,"In testing, balance shared after only name and phone number were given",None (fictional test accounts),High (if live),Fixed in v1.1 with a one-time PIN,Weak identity check in v1.0,Closed

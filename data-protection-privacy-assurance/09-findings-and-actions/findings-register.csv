@@ -1,0 +1,6 @@
+id,title,severity,obligation_refs,condition,recommendation,owner_role,action_ref,due_date,status
+DPF-01,No data processing agreement with Linda Guard Services,Medium,OB-07,Guards view CCTV and keep the visitor register without a written agreement.,"Sign an agreement covering CCTV viewing, the visitor register and confidentiality.",Head of Security,DCA-01,2027-01-31,Open
+DPF-02,No data processing agreement with the events partner,Low,OB-07,"Guest lists, sometimes with dietary needs, are shared without an agreement.",Sign an agreement or share only names and numbers needed.,Membership and Events Manager,DCA-02,2027-03-31,Open
+DPF-03,Former member records 2019 to 2021 not yet disposed,Medium,OB-11,About 300 records are past their retention period.,Complete disposal DL-04 by 31 January 2027.,Compliance Officer (DPO),DCA-03,2027-01-31,In progress
+DPF-04,No staff data protection training in two years,Medium,OB-02,"Reception, gate and events staff handle personal data daily without training.",Train all staff who handle personal data by March 2027; add to induction.,HR Manager,DCA-04,2027-03-31,Open
+DPF-05,CCTV viewing and export not logged before December 2026,Low,OB-03,No record of who viewed or exported footage.,Use the new viewing log and check it monthly.,Head of Security,DCA-05,2027-01-31,Closed

@@ -1,0 +1,6 @@
+system,decision,ai_role,human_role,override,escalation,monitoring
+Kijani Assist,Answers and bookings,Drafts and sends answers; makes bookings,Reception reviews hand-offs and a 5% weekly sample,Reception can take over any chat; ICT Officer can disable the service,Complaint or wrong answer goes to the Membership and Events Manager the same day,Weekly sample; monthly accuracy report
+Gate ANPR,Gate opening for opted-in members,Opens the gate on a plate match,Guard on duty watches the gate and handles every non-match,Guard can open or close the barrier manually,Misread or wrong admission reported to the Head of Security,Monthly misread rate
+CCTV motion alerts,Night patrol alerts,Raises an alert,Guard decides whether to respond,Guard ignores false alerts,Not needed,Quarterly false-alert check
+Tee-time demand forecast,Staffing plans,Suggests staffing levels,Captain and F&B Manager set rosters,Managers decide,Not needed,Quarterly
+Email spam filter,Email delivery,Moves email to spam,Staff check the spam folder,Staff release email,Phishing that gets through reported to the ICT Officer,Monthly

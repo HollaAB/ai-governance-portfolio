@@ -1,0 +1,5 @@
+id,date,record_type,records_disposed,method,approved_by,status
+DL-01,2026-12-15,CCTV footage older than 30 days,Recorder overwritten from 180 to 30 days,Reconfigured recorder,Head of Security,Done
+DL-02,2026-12-18,ANPR logs older than 30 days,Logs since August 2026 older than 30 days,Deleted in ANPR system,Head of Security,Done
+DL-03,2026-12-20,Former member files 2015 to 2018,412 paper files,Shredded by a certified contractor,Compliance Officer (DPO),Done
+DL-04,2027-01-31,Former member files 2019 to 2021,About 300 paper and system records,Shred and delete,Compliance Officer (DPO),Planned

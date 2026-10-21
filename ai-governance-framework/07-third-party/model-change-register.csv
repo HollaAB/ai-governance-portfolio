@@ -1,0 +1,4 @@
+id,system,version,date,change,classification_reviewed,tested,approved_by,status
+MC-01,Kijani Assist,1.0,2026-08-15,Launch,No (before governance),No,General Manager,Replaced
+MC-02,Kijani Assist,1.1,2026-12-09,One-time PIN for balances; look-ups limited to the verified member; knowledge base refreshed; AI disclosure in first message,Yes,Yes (6 December 2026),Management Committee (D-2026-12-02),Live
+MC-03,Gate ANPR,Opt-in mode,2026-12-12,Matching limited to members who opted in; 30-day log retention,Yes,Yes (misread check),Management Committee (D-2026-12-01),Live

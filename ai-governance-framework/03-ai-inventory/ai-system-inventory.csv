@@ -1,0 +1,8 @@
+system,use_case,area,owner_role,users,data_used,decision_impact,risk_tier,status,notes
+Kijani Assist,"Answer member questions, book tee times, share verified balances",Member services,Membership and Events Manager,Members,"Messages, bookings, account data after verification",Informs and acts (makes bookings),High,In use (v1.1),Generative AI via Sauti AI Labs and ModelCo; impact assessment AIA-01; DPIA-02
+Gate ANPR,Read number plates and open the gate for opted-in members,Security,Head of Security,"Members, visitors",Vehicle registrations,Makes decisions (opens gate); guard handles non-matches,High,In use (opt-in),Computer vision in the gate system; DPIA-01
+CCTV motion alerts,Alert guards to movement on the course at night,Security,Head of Security,Guards,Video images,Informs,Low,In use,Built into the recorder; no identification of people
+Tee-time demand forecast,Forecast busy periods to plan staffing,Operations,Captain,Management,Aggregated booking counts,Informs,Low,In use,Feature in FairwayOne; no personal data in the output
+Email spam filter,Filter spam and phishing,ICT,ICT Officer,All staff,Email content,Acts (moves email),Low,In use,Feature of the cloud email service
+Member churn prediction,Predict members likely to resign,Membership,Membership and Events Manager,Management,Member activity and spending,Informs,Medium,"Proposed, on hold",FairwayOne add-on; needs a DPIA screening before any trial
+CV screening tool,Rank job applicants,HR,HR Manager,Applicants,CVs,Would make decisions,High,Not approved,"Trial proposed by a vendor; rejected (bias and fairness risk, no human review design)"

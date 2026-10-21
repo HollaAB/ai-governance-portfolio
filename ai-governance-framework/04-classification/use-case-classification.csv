@@ -1,0 +1,8 @@
+system,c1_rights,c2_personal_data,c3_autonomy,c4_member_facing,c5_generative,c6_vendor_model,tier,rationale
+Kijani Assist,1,2,1,2,2,2,High,"Shares account data, faces members, generative, vendor model"
+Gate ANPR,1,2,2,2,0,2,High,Decides on entry; C1 partly because a guard reviews non-matches
+CCTV motion alerts,0,1,0,0,0,1,Low,Alerts only; no identification
+Tee-time demand forecast,0,0,0,0,0,1,Low,Aggregated data only
+Email spam filter,0,1,1,0,0,1,Low,Staff can check the spam folder
+Member churn prediction,1,2,0,0,0,2,Medium,Could lead to unfair treatment if acted on without review
+CV screening tool,2,2,2,1,0,2,Not permitted,C1 always high; vendor offered no human review design; rejected

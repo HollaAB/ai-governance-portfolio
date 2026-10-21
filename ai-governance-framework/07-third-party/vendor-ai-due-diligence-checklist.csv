@@ -1,0 +1,17 @@
+area,question,sauti_ai_labs_response,score_0_to_3,notes
+Data location and transfers,Where is Club data processed and stored?,Kenya; question text processed by ModelCo outside Kenya,2,Transfer covered in the agreement
+Sub-processors,"Which sub-processors are used, and is the Club told of changes?",ModelCo only; 30 days' notice of changes,3,
+Training on Club data,Is Club data used to train models?,"No, contractually excluded",3,
+Retention,How long are prompts and logs kept?,Logs 90 days at Sauti AI Labs; prompts deleted by ModelCo within 30 days,3,
+Security certification,Which independent security certifications are held?,Claims ISO/IEC 27001; certificate not provided,1,Finding AIF-03
+Incident notification,How fast are incidents reported to the Club?,Within 24 hours,3,
+Model changes,Is the Club told before the model changes?,30 days' notice; Club can test first,3,
+Accuracy testing,What testing has the vendor done?,General testing only; no Club-specific tests,1,Club runs its own tests
+Bias and language,How is performance in Swahili and Sheng checked?,No formal testing,1,Club Swahili test set; finding AIF-02
+Human hand-off,Can the bot hand over to a person?,"Yes, to reception",3,
+Kill switch,Can the Club disable the service immediately?,"Yes, from the console",3,
+Audit rights,Can the Club audit or obtain evidence of controls?,Yearly evidence pack; no on-site audit,2,
+Service levels,What availability is committed?,99.5% monthly,2,
+Exit,Can data be returned and deleted at the end of the contract?,"Yes, within 30 days",3,
+Insurance,Does the vendor hold liability insurance?,Professional indemnity cover confirmed,2,
+Total,,,35 of 45,78%; acceptable with conditions (AIF-03)

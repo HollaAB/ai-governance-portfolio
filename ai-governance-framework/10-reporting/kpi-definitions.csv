@@ -1,0 +1,7 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+AKPI-01,AI systems inventoried and classified,Systems in use or proposed that are in the inventory with a tier,Classified / known systems,100%,100% (7 of 7),Quarterly,Compliance Officer (DPO),ai-system-inventory.csv
+AKPI-02,High-risk systems assessed and tested,"High-risk systems in use with an impact assessment, DPIA and passing tests",Assessed / high-risk in use,100%,100% (2 of 2),Quarterly,AI review group,"Impact assessment, DPIAs, test results"
+AKPI-03,Chatbot test pass rate,Share of the 150 test prompts passed,Passed / prompts,95%,96% (v1.1),After each change,ICT Officer,test-results.csv
+AKPI-04,Changes approved before release,"Model changes classified, tested and approved before going live",Approved first / changes,100%,100% since December 2026 (2 of 2),Quarterly,AI review group,model-change-register.csv
+AKPI-05,AI incidents,AI incidents recorded in the quarter,Count,"Tracked, no target",3 (Q3 and Q4 2026),Quarterly,Compliance Officer (DPO),ai-incident-register.csv
+AKPI-06,Vendor due diligence score,Score of each AI vendor on the checklist,Score / maximum,80%,78% (Sauti AI Labs),Yearly,Compliance Officer (DPO),vendor-ai-due-diligence-checklist.csv

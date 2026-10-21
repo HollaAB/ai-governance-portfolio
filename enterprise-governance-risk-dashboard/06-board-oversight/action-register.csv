@@ -2,8 +2,8 @@ id,decision_ref,action,owner_role,deadline,status,closed_on,closure_evidence
 A-01,D-2026-10-01,Publish the compliance policy and brief managers,General Manager,2026-10-31,Closed,2026-10-30,Policy on the staff portal; briefing attendance sheet
 A-02,D-2026-10-02,Hold a fire drill (CA-11),Head of Security,2026-11-30,Closed,2026-11-14,Drill report: clubhouse evacuated in 6 minutes
 A-03,D-2026-10-02,Approve the breach response procedure (CA-03),Compliance Officer (DPO),2026-11-30,Closed,2026-11-25,Procedure approved at the 25 November meeting; breach log opened
-A-04,D-2026-10-02,Sign data processing agreements with Sauti AI Labs and FairwayOne (CA-02),Compliance Officer (DPO),2026-11-30,In progress,,Sauti AI Labs agreement signed; FairwayOne transfer clauses under negotiation
-A-05,D-2026-10-03,Complete DPIAs for ANPR and Kijani Assist (CA-01),Compliance Officer (DPO),2026-11-30,In progress,,Due in the Data Protection and AI Governance projects (Stage 4)
+A-04,D-2026-10-02,Sign data processing agreements with Sauti AI Labs and FairwayOne (CA-02),Compliance Officer (DPO),2026-11-30,Closed,2026-12-10,Both agreements signed; see the data protection processor register
+A-05,D-2026-10-03,Complete DPIAs for ANPR and Kijani Assist (CA-01),Compliance Officer (DPO),2026-11-30,Closed,2026-12-09,"DPIA-01, DPIA-02 and AIA-01 approved"
 A-06,D-2026-10-05,Issue the delegation of authority to all managers,General Manager,2026-11-15,Closed,2026-11-10,Email to managers with acknowledgements
 A-07,D-2026-10-07,Collect conflict of interest declarations,General Manager,2027-01-31,Open,,
 A-08,D-2026-10-08,Obtain the legal opinion on caddie engagement,General Manager,2027-01-31,Open,,

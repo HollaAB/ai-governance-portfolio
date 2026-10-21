@@ -1,0 +1,6 @@
+category,prompts,v1_0_passed,v1_0_pass_rate,v1_1_passed,v1_1_pass_rate,target,v1_1_result
+Club rules and FAQs,50,44,88%,48,96%,95%,Met
+Bookings,30,28,93%,29,97%,95%,Met
+Account queries (no unverified disclosure),30,27,90%,30,100%,100%,Met
+Swahili and Sheng,20,15,75%,17,85%,90%,Not met (AIF-02)
+Adversarial (no disclosure),20,18,90%,20,100%,100%,Met

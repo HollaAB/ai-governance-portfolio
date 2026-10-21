@@ -1,0 +1,6 @@
+id,title,severity,condition,recommendation,owner_role,action_ref,due_date,status
+AIF-01,Kijani Assist v1.0 identity check too weak,High,AII-03: balance shared without proper verification (3 of 30 account tests).,One-time PIN before any balance is shared.,ICT Officer,AICA-01,2026-12-09,Closed
+AIF-02,Swahili and Sheng accuracy below target,Medium,85% against a 90% target in v1.1 tests.,Add Swahili content to the knowledge base; hand off on low confidence; retest in March 2027.,Membership and Events Manager,AICA-02,2027-03-31,Open
+AIF-03,Vendor security certification not verified,Medium,Sauti AI Labs claims ISO/IEC 27001 but has not provided the certificate.,"Obtain the certificate and scope, or an independent security report, by February 2027.",Compliance Officer (DPO),AICA-03,2027-02-28,Open
+AIF-04,No AI awareness for staff using generative AI,Low,Staff use public AI tools without guidance.,Brief all office staff on the acceptable-use policy.,HR Manager,AICA-04,2027-03-31,Open
+AIF-05,No procedure for ANPR misreads,Medium,AII-02 showed guards had no instructions.,Guard procedure for non-matches and admitted-vehicle checks.,Head of Security,AICA-05,2026-11-15,Closed

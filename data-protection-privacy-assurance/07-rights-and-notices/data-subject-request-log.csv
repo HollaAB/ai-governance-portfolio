@@ -1,0 +1,5 @@
+id,received,requester_type,request_type,channel,due,responded,outcome,on_time
+DSR-2026-07,2026-11-04,Former member,Deletion,Email,2026-11-11,2026-11-09,"Deleted, except billing records kept under RS-02",Yes
+DSR-2026-08,2026-11-18,Member,Access (CCTV),Reception,2026-11-25,2026-11-23,Clip provided with other people blurred,Yes
+DSR-2026-09,2026-12-02,Member,Withdraw marketing consent,Kijani Assist,2026-12-09,2026-12-02,Removed from marketing lists,Yes
+DSR-2026-10,2026-12-14,Job applicant,Access,Email,2026-12-21,2026-12-18,Interview notes provided,Yes

@@ -1,0 +1,6 @@
+id,finding_ref,action,owner_role,priority,due_date,status,closure_evidence
+AICA-01,AIF-01,One-time PIN before any balance is shared.,ICT Officer,High,2026-12-09,Closed,v1.1 test results: 30 of 30 account tests passed
+AICA-02,AIF-02,Add Swahili content to the knowledge base; hand off on low confidence; retest in March 2027.,Membership and Events Manager,Medium,2027-03-31,Open,
+AICA-03,AIF-03,"Obtain the certificate and scope, or an independent security report, by February 2027.",Compliance Officer (DPO),Medium,2027-02-28,Open,
+AICA-04,AIF-04,Brief all office staff on the acceptable-use policy.,HR Manager,Low,2027-03-31,Open,
+AICA-05,AIF-05,Guard procedure for non-matches and admitted-vehicle checks.,Head of Security,Medium,2026-11-15,Closed,Guard procedure issued 15 November 2026

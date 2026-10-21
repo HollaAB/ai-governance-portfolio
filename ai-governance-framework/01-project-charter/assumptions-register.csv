@@ -1,1 +1,6 @@
 id,assumption,area,source_or_rationale
+AIG-AS-01,All scenario assumptions AS-01 to AS-11 apply.,All,See scenario/assumptions-register.csv.
+AIG-AS-02,"Kijani Assist version 1.0 went live in August 2026, before any governance existed.",History,Explains why it was assessed after launch.
+AIG-AS-03,ModelCo is a fictional language model provider used by Sauti AI Labs.,Suppliers,Avoids naming a real provider.
+AIG-AS-04,The 150 test prompts were written by the AI review group and run on 25 November (v1.0) and 6 December 2026 (v1.1).,Testing,Scenario test design.
+AIG-AS-05,"Kenya has no AI-specific statute in force for the Club's uses; obligations come from data protection, consumer and sector law.",Legal,To verify; monitor through the regulatory change procedure.

@@ -1,0 +1,13 @@
+area,measure,unit,q3_2026_baseline,q4_2026,target,status,source
+Compliance,Obligations compliant,%,50%,56%,90%,Amber,KPI-01
+Compliance,Open High compliance findings,Count,4,2,0,Amber,KPI-02
+Compliance,Corrective actions overdue,%,0%,0%,0%,Green,KPI-03
+Compliance,Controls tested and effective,%,32%,32%,80%,Red,KPI-04
+Risk,Risks outside appetite,Count,9,9,0,Red,Enterprise risk register
+Risk,Licences expiring within 60 days without renewal,Count,1,0,0,Green,KRI-03
+Risk,Member subscription arrears,%,7.2%,6.8%,Below 5%,Amber,KRI-04
+Risk,System downtime,Hours per quarter,3,2,Below 4,Green,KRI-06
+Governance,Committee decisions closed on time,%,No baseline,71%,90%,Amber,Action register
+Governance,Conflict of interest declarations outstanding,Count,11,11,0,Red,KRI-05
+Governance,Committee meetings with papers circulated 5 days ahead,%,40%,100%,100%,Green,Meeting records
+Governance,Governance maturity (average of 11 principles),Score 1 to 5,2.5,3.0,3.9,Amber,Maturity assessment

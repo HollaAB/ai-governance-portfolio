@@ -1,0 +1,7 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+GKPI-01,Decisions closed on time,Share of Committee actions closed by their deadline,Actions closed on time / actions due,90%,71% (Q4 2026),Quarterly,General Manager,action-register.csv
+GKPI-02,Papers on time,Share of meetings with papers circulated 5 working days ahead,Meetings with papers on time / meetings,100%,100% (Q4 2026),Quarterly,General Manager,Meeting records
+GKPI-03,Declarations complete,Share of Committee members and senior staff with a current declaration,Current declarations / people required,100%,0% (due January 2027),Annually,General Manager,Register of interests
+GKPI-04,Risks outside appetite,Number of risks outside appetite without a Committee decision,Count,0,9 (Q3 2026),Quarterly,Compliance Officer (DPO),enterprise-risk-register.csv
+GKPI-05,Governance maturity,Average maturity score across the 11 ISO 37000 principles,Average score,3.9,2.5 (Q3 2026),Annually,Chairman,governance-maturity-assessment.csv
+GKPI-06,Sub-committee meetings held,Share of required quarterly sub-committee meetings held,Meetings held / meetings required,100%,No baseline,Quarterly,Chairman,Minutes

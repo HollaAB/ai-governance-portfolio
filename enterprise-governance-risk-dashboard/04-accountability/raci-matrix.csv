@@ -1,0 +1,14 @@
+process,Management Committee,Finance and Audit sub-committee,General Manager,Compliance Officer (DPO),Finance Manager,HR Manager,Head of Security,ICT Officer,Department heads
+Approve strategy and annual budget,A,C,R,I,C,I,I,I,C
+Set and review the risk appetite,A,R,C,C,C,I,I,I,I
+"Approve high-risk technology or data use (AI, surveillance)",A,C,R,C,I,I,C,C,I
+"Approve supplier contracts above KES 5,000,000",A,C,R,C,C,I,I,I,C
+Maintain the obligations register and calendar,I,I,A,R,C,C,C,C,C
+Respond to a personal data breach,I,I,A,R,I,I,C,R,I
+Renew licences and permits,I,I,A,C,C,I,I,I,R
+Run the compliance monitoring plan,I,A,C,R,C,C,C,C,C
+Approve Club policies,A,C,R,C,C,C,C,I,C
+Track committee decisions to closure,A,I,R,C,I,I,I,I,C
+Escalate a risk outside appetite,A,R,R,C,C,C,C,C,C
+Run fire drills and safety audits,I,I,A,I,I,C,R,I,C
+Collect annual conflict of interest declarations,A,I,R,C,I,I,I,I,I

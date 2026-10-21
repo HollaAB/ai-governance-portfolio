@@ -1,1 +1,7 @@
 id,assumption,area,source_or_rationale
+EGR-AS-01,All scenario assumptions AS-01 to AS-11 apply.,All,See scenario/assumptions-register.csv.
+EGR-AS-02,The Management Committee meets monthly; sub-committees meet quarterly.,Governance,Common practice for members' clubs.
+EGR-AS-03,"The General Manager may approve spending up to KES 1,000,000 per item within the approved budget.",Governance,Scenario threshold; real limits vary.
+EGR-AS-04,Two Management Committee members are directors of companies that supply the Club.,Governance,Creates a conflict-of-interest scenario to manage.
+EGR-AS-05,The Q4 2026 dashboard values are scenario results that follow the Stage 2 findings.,Reporting,Shows how the dashboard tracks progress.
+EGR-AS-06,Risks R-01 to R-15 come from the Stage 2 risk and control register; R-16 to R-18 are added here.,Risk,Keeps one risk register across projects.

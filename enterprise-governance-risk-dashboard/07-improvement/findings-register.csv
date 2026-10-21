@@ -1,0 +1,9 @@
+id,title,severity,principle,condition,recommendation,owner_role,action_ref,status
+GF-01,No risk appetite; risks not escalated consistently,High,Risk governance,No agreed appetite or escalation route existed.,Risk appetite statement adopted (D-2026-10-04); escalation matrix in use.,Chairman,GCA-01,Closed
+GF-02,No delegation of authority,High,Accountability,High-risk technology was approved by management without Committee review.,Delegation of authority adopted and issued (D-2026-10-05).,General Manager,GCA-02,Closed
+GF-03,Committee terms of reference out of date,Medium,Oversight,Terms last revised in 2017; no terms for the Security and Safety sub-committee.,Refreshed terms approved (D-2026-10-06).,Chairman,GCA-03,Closed
+GF-04,Conflict of interest declarations not collected,Medium,Leadership,No declarations since 2023; two members are supplier directors.,Annual declarations from January 2027 (D-2026-10-07).,General Manager,GCA-04,Open
+GF-05,Decisions not tracked to closure,Medium,Oversight,Decisions minuted but no action register.,Decision and action registers reviewed at every meeting.,General Manager,GCA-05,Closed
+GF-06,Skills gaps in technology and compliance on the Committee,Low,Leadership,Committee averages below 2.5 in technology and compliance.,Co-opt a member with technology or data protection skills; annual Committee training.,Chairman,GCA-06,Open
+GF-07,Caddie engagement risk unowned,Medium,Risk governance,Risk R-09 had no owner or control.,Legal opinion and decision on the engagement model (D-2026-10-08).,General Manager,GCA-07,Open
+GF-08,No member consultation on major changes,Low,Stakeholder engagement,Members were not told about ANPR or the chatbot before launch.,Consult members before any high-risk service launch; publish a summary of each DPIA.,Membership and Events Manager,GCA-08,Open

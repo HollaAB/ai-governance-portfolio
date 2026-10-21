@@ -1,0 +1,9 @@
+id,date,issue,decision,rationale,owner_role,deadline,status,closure_evidence
+D-2026-10-01,2026-10-28,Compliance gap assessment,Approve the compliance policy,Policy needed to anchor the compliance system,General Manager,2026-10-31,Closed,"Signed policy published on the staff portal, 30 October 2026"
+D-2026-10-02,2026-10-28,Compliance gap assessment,Approve the corrective-action plan,16 findings need owners and deadlines,Compliance Officer (DPO),2027-04-30,In progress,Tracked in the corrective-action tracker
+D-2026-10-03,2026-10-28,ANPR pilot,Pause ANPR expansion until its DPIA is approved,High-risk processing started without assessment (F-01),General Manager,2026-11-30,In progress,"Expansion work order cancelled, 29 October 2026; DPIA due in Stage 4"
+D-2026-10-04,2026-10-28,Risk governance,Adopt the risk appetite statement,No agreed basis for escalating risk,Chairman,2026-10-28,Closed,Minutes of 28 October 2026
+D-2026-10-05,2026-10-28,Delegation of authority,Adopt the delegation of authority,Approval gap behind F-01 and F-02,General Manager,2026-11-15,Closed,"Delegation schedule issued to managers, 10 November 2026"
+D-2026-10-06,2026-10-28,Committee terms of reference,Approve refreshed terms of reference,Terms last revised 2017,Chairman,2026-10-28,Closed,Minutes of 28 October 2026
+D-2026-10-07,2026-10-28,Conflicts of interest,Require annual declarations from January 2027,Declarations not collected since 2023,General Manager,2027-01-31,Open,
+D-2026-10-08,2026-10-28,Caddie engagement,Obtain a legal opinion on caddie engagement,Risk R-09 has no owner or control,General Manager,2027-01-31,Open,

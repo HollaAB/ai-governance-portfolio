@@ -1,0 +1,10 @@
+trigger,raised_by,escalate_to,then,deadline
+Personal data breach,Compliance Officer (DPO),General Manager immediately; Chairman within 24 hours,ODPC within 72 hours if notifiable,Within 72 hours
+Risk scored 20 or more (Critical),Risk owner,General Manager the same day; Chairman within 24 hours,Management Committee at an urgent meeting,Within 7 days
+Risk outside appetite,Risk owner,General Manager within 2 working days,Finance and Audit sub-committee; Management Committee for acceptance,"Next meeting, or within 30 days"
+High compliance finding,Compliance Officer (DPO),General Manager within 2 working days,Finance and Audit sub-committee,Next quarterly meeting
+Corrective action overdue by 30 days,Action owner,General Manager,Finance and Audit sub-committee,Next quarterly meeting
+Serious injury or fatality,Head of Security,General Manager and Chairman immediately,DOSH and insurers as required by law,Immediately
+Suspected bribery,Any employee or member,General Manager or the confidential reporting channel,Authorities within 24 hours (to verify),Within 24 hours
+Licence about to lapse,Department head,General Manager 30 days before expiry,Chairman 7 days before expiry,Before expiry
+Conflict of interest arising in a meeting,Member concerned,Meeting chair at the start of the item,Recorded in the minutes,At the meeting

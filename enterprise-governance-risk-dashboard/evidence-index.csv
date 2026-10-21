@@ -1,1 +1,7 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,Baseline governance maturity was 2.5 out of 5; risk governance scored lowest (1).,Maturity assessment,07-improvement/governance-maturity-assessment.csv,ISO 37000:2021 principles
+EI-02,High-risk technology was approved without Committee review because no delegation of authority existed.,Board paper and minutes,06-board-oversight/board-paper.md; 06-board-oversight/minutes.md,Finding GF-02; compliance finding F-01
+EI-03,9 of 18 risks were outside appetite at the Q3 baseline.,Enterprise risk register,05-risk-governance/enterprise-risk-register.csv,Risk appetite statement
+EI-04,"Every Committee decision has an owner, a deadline and, when closed, closure evidence.",Decision and action registers,06-board-oversight/,Governance framework: meetings and papers
+EI-05,Two High compliance findings were closed after the Committee's decisions.,Compliance corrective-action tracker,../compliance-management-system/06-remediation/corrective-action-tracker.csv,Decision D-2026-10-02
+EI-06,Governance maturity rose to 3.0 after one quarter.,Dashboard data,08-reporting/dashboard-data.csv,Maturity assessment targets

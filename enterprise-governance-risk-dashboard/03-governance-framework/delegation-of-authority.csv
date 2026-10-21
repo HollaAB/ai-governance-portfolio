@@ -1,0 +1,18 @@
+matter,limit_or_scope,approver,consulted,reserved_to_committee
+Annual budget,Any amount,Members in General Meeting (on Committee recommendation),Finance and Audit sub-committee,Yes
+Spending within approved budget,"Up to KES 1,000,000 per item",General Manager,Finance Manager,No
+Spending within approved budget,"KES 1,000,001 to 5,000,000",Chairman and Honorary Treasurer,General Manager,No
+Spending within approved budget,"Above KES 5,000,000",Management Committee,Finance and Audit sub-committee,Yes
+Spending outside approved budget,Any amount,Management Committee,Finance and Audit sub-committee,Yes
+Supplier contracts,"Up to 3 years and up to KES 5,000,000",General Manager,Compliance Officer (data protection review),No
+Supplier contracts,"Longer than 3 years or above KES 5,000,000",Management Committee,Compliance Officer; Finance and Audit sub-committee,Yes
+New use of personal data or technology,Low or medium risk after screening,General Manager,Compliance Officer (DPO),No
+New use of personal data or technology,"High risk, including AI and surveillance",Management Committee,Compliance Officer (DPO) with a completed DPIA,Yes
+Club policies,"Compliance, data protection, anti-bribery, safety, conduct",Management Committee,General Manager; relevant sub-committee,Yes
+Operating procedures,Within approved policies,General Manager,Department head,No
+Senior staff appointments,General Manager,Management Committee,Chairman,Yes
+Senior staff appointments,Management team,General Manager,Chairman,No
+Membership admissions,All categories,Membership sub-committee,Membership and Events Manager,No
+Write-off of member arrears,"Up to KES 200,000 per member",Finance and Audit sub-committee,Finance Manager,No
+Risk acceptance,Risk outside appetite,Management Committee,Finance and Audit sub-committee,Yes
+Regulatory notifications,Data breach notification to the ODPC,Compliance Officer (DPO),General Manager (informed immediately),No

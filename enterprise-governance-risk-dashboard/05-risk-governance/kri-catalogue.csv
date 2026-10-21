@@ -1,0 +1,10 @@
+id,indicator,unit,green,amber,red,frequency,owner_role,data_source
+KRI-01,High compliance findings open beyond 30 days,Count,0,1,2 or more,Monthly,Compliance Officer (DPO),Corrective-action tracker
+KRI-02,Hours to notify the ODPC of a notifiable breach,Hours,Up to 48,49 to 72,Over 72,Per breach,Compliance Officer (DPO),Breach log
+KRI-03,Licences and certificates expiring within 60 days without a renewal in progress,Count,0,1,2 or more,Monthly,General Manager,Compliance calendar
+KRI-04,Member subscription arrears,% of annual subscriptions,Below 5%,5% to 8%,Above 8%,Monthly,Finance Manager,Club management system
+KRI-05,Conflict of interest declarations outstanding,Count,0,1 to 2,3 or more,Quarterly,General Manager,Register of interests
+KRI-06,Club management system downtime,Hours per quarter,Below 4,4 to 12,Above 12,Quarterly,ICT Officer,Supplier service reports
+KRI-07,Serious safety incidents,Count per quarter,0,1,"2 or more, or any fatality",Quarterly,Head of Security,Accident register
+KRI-08,Data subject requests past their deadline,Count,0,1,2 or more,Monthly,Compliance Officer (DPO),Request log
+KRI-09,Committee members without induction,Count,0,1,2 or more,After each election,Chairman,Induction records

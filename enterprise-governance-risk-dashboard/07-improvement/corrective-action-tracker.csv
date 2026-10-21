@@ -1,0 +1,9 @@
+id,finding_ref,action,owner_role,priority,due_date,status,closed_on,closure_evidence
+GCA-01,GF-01,Risk appetite statement adopted (D-2026-10-04); escalation matrix in use.,Chairman,High,2026-11-30,Closed,2026-10-28,Minutes of 28 October 2026
+GCA-02,GF-02,Delegation of authority adopted and issued (D-2026-10-05).,General Manager,High,2026-11-30,Closed,2026-11-10,Delegation schedule and manager acknowledgements
+GCA-03,GF-03,Refreshed terms approved (D-2026-10-06).,Chairman,Medium,2027-01-31,Closed,2026-10-28,Minutes of 28 October 2026
+GCA-04,GF-04,Annual declarations from January 2027 (D-2026-10-07).,General Manager,Medium,2027-01-31,Open,,
+GCA-05,GF-05,Decision and action registers reviewed at every meeting.,General Manager,Medium,2027-01-31,Closed,2026-11-25,Action register reviewed at the 25 November meeting
+GCA-06,GF-06,Co-opt a member with technology or data protection skills; annual Committee training.,Chairman,Low,2027-03-31,Open,,
+GCA-07,GF-07,Legal opinion and decision on the engagement model (D-2026-10-08).,General Manager,Medium,2027-01-31,Open,,
+GCA-08,GF-08,Consult members before any high-risk service launch; publish a summary of each DPIA.,Membership and Events Manager,Low,2027-03-31,Open,,

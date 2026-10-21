@@ -1,0 +1,8 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+KPI-01,Obligations compliant,Share of applicable obligations rated Compliant,Compliant obligations / applicable obligations,90%,50% (18 of 36),Quarterly,Compliance Officer (DPO),compliance-register.csv
+KPI-02,Open high findings,Number of open findings rated High,Count of findings with severity High and status Open,0,4,Monthly,Compliance Officer (DPO),findings-register.csv
+KPI-03,Overdue corrective actions,Share of open actions past their due date,Overdue actions / open actions,0%,0% (no action due yet),Monthly,Compliance Officer (DPO),corrective-action-tracker.csv
+KPI-04,Controls effective,Share of controls tested and effective,Effective controls / all controls,80%,32% (7 of 22),Quarterly,Compliance Officer (DPO),obligations-to-controls-matrix.csv
+KPI-05,Evidence available,Share of evidence items collected and reviewed,Reviewed items / required items,95%,83% (30 of 36),Quarterly,Compliance Officer (DPO),evidence-register.csv
+KPI-06,Deadlines met,Share of calendar deadlines met on time in the period,Deadlines met on time / deadlines due,100%,96% (one late liquor licence renewal in 2026),Quarterly,General Manager,compliance-calendar.csv
+KPI-07,Regulatory changes assessed on time,Share of logged regulatory changes assessed within 10 working days,Assessed within 10 days / changes logged,100%,No baseline (log not started),Quarterly,Compliance Officer (DPO),Regulatory change log

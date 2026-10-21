@@ -3,4 +3,8 @@ EI-01,"37 obligations were identified, of which 36 apply to the Club.",Obligatio
 EI-02,"Every applicable obligation has an owner, a proposed control and an evidence item.","Register, controls matrix and evidence register",03-obligations-register/,Validation rules in the data dictionary
 EI-03,Anti-money laundering reporting does not apply to the Club.,Applicability reason for OB-37,03-obligations-register/compliance-register.csv,Scenario assumption AS-06
 EI-04,The Club has 24 recurring or event-driven compliance deadlines.,Compliance calendar,03-obligations-register/compliance-calendar.csv,Obligations with a frequency other than continuous
-EI-05,No control has been tested yet.,Controls matrix status column,03-obligations-register/obligations-to-controls-matrix.csv,Assumption CMS-AS-03
+EI-05,"All 22 controls were tested: 7 effective, 10 with exceptions, 5 not implemented.",Testing workpapers,04-gap-assessment/testing-workpapers.csv,Gap assessment methodology
+EI-06,"18 of 36 applicable obligations are compliant, 14 partly, 4 not.",Obligations register status column,03-obligations-register/compliance-register.csv,Obligation status scale in the methodology
+EI-07,"16 findings were raised, 4 of them High.",Findings register,06-remediation/findings-register.csv,Finding severity scale in the methodology
+EI-08,Every finding has a corrective action with an owner and a due date.,Corrective-action tracker,06-remediation/corrective-action-tracker.csv,Methodology step 5
+EI-09,A personal data breach and unlawful AI or ANPR processing are the highest-rated risks.,Risk and control register,risk-and-control-register.csv,Risk scoring in the methodology

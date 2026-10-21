@@ -17,7 +17,7 @@
 | control_refs | Controls that meet it | CTL-xx, separated by semicolons |
 | evidence_refs | Evidence that shows it is met | EV-xx |
 | source_check | Whether the legal reference has been checked against the official text | To verify, Verified |
-| status | Compliance status | Not yet assessed, Compliant, Partly compliant, Not compliant |
+| status | Compliance status | Not yet assessed, Compliant, Partly compliant, Not compliant, Not applicable |
 
 ## obligations-to-controls-matrix.csv
 
@@ -28,7 +28,7 @@
 | control_type | How it works | Preventive, Detective, Corrective |
 | owner_role | Role that runs the control | Role |
 | obligations_covered | Obligations the control meets | OB-xx, separated by semicolons |
-| status | Control status | Proposed, Implemented, Tested and effective, Tested with exceptions |
+| status | Control status | Proposed, Tested and effective, Tested with exceptions, Not implemented |
 | test_planned | When it will be tested | Text |
 
 ## compliance-calendar.csv
@@ -54,10 +54,10 @@
 | format | File type | Text |
 | location | Where it is kept (fictional) | Text |
 | owner_role | Role that keeps it | Role |
-| status | Collection status | Not yet collected, Collected, Reviewed |
+| status | Collection status | Not yet collected, Not collected, Reviewed |
 
 ## Validation rules
 
 - Every obligation with `applies` = Yes has an owner, at least one control and at least one evidence item.
 - Every control lists at least one obligation.
-- `status` stays "Not yet assessed" until the Stage 2 gap assessment tests it.
+- `status` was "Not yet assessed" until the Stage 2 gap assessment; it now holds the tested result.

@@ -2,11 +2,11 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** In progress (Stage 1 and 2 drafts for review) | **Stage:** 1 and 2 | **Area:** Compliance
+**Status:** Draft complete, for review | **Stage:** 1 and 2 | **Area:** Compliance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
-**Notion page:** [TODO: link, added after publishing]
+**Notion page:** added after the site is published
 
 ## 1. Overview and business problem
 

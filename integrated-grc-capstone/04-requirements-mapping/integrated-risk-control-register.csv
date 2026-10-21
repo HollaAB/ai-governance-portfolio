@@ -1,0 +1,19 @@
+id,risk,category,score,rating,appetite,within_appetite,control_refs,latest_control_status,finding_refs,owner_role,oversight_committee
+R-01,Personal data breach through cloud systems or supplier access,Data protection and privacy,15,High,Low,No,CTL-05; CTL-07,"Re-scored after Stage 5: leaver accounts disabled, MFA on admin accounts; still outside appetite until named reception accounts and supplier alerts are in place",F-03,Compliance Officer (DPO),Finance and Audit sub-committee
+R-02,Unlawful processing by the ANPR pilot or Kijani Assist,Data protection and privacy,8,Medium,Low,Yes,CTL-06,"Re-scored after Stage 4 measures (DPIAs, agreements, v1.1)",F-01,Compliance Officer (DPO),Finance and Audit sub-committee
+R-03,Member data transferred abroad without safeguards,Data protection and privacy,4,Low,Low,Yes,CTL-07,"Re-scored after Stage 4 measures (DPIAs, agreements, v1.1)",F-02,Compliance Officer (DPO),Finance and Audit sub-committee
+R-04,Licence or permit lapses,Legal and regulatory compliance,12,High,Low,No,CTL-16; CTL-17,Tested with exceptions; Tested with exceptions,F-13; F-14,General Manager,Finance and Audit sub-committee
+R-05,Bribery in procurement or member admission,Integrity and bribery,10,High,Averse,No,CTL-10,Tested with exceptions,F-09,General Manager,Finance and Audit sub-committee
+R-06,Fire or life-safety incident during a large event,Health and safety,10,High,Averse,No,CTL-13,Tested with exceptions,F-11,Head of Security,Security and Safety sub-committee
+R-07,Food safety incident,Health and safety,8,Medium,Averse,No,CTL-17,Tested with exceptions,F-14,F&B Manager,Security and Safety sub-committee
+R-08,Employment claims from missing contracts,Legal and regulatory compliance,9,Medium,Low,Yes,CTL-11,Tested with exceptions,F-10,HR Manager,Finance and Audit sub-committee
+R-09,Caddies treated as employees by a court or regulator,Legal and regulatory compliance,8,Medium,Low,Yes,,No control yet,,HR Manager,Finance and Audit sub-committee
+R-10,Account data disclosed through the chatbot,Data protection and privacy,4,Low,Low,Yes,CTL-06,"Re-scored after Stage 4 measures (DPIAs, agreements, v1.1)",F-01,ICT Officer,Finance and Audit sub-committee
+R-11,Club management system outage,Technology and operations,6,Medium,Moderate,Yes,,Re-scored after Stage 5: continuity plan and manual fallbacks tested,,ICT Officer,Security and Safety sub-committee
+R-12,Management Committee lacks visibility of compliance,Legal and regulatory compliance,9,Medium,Low,Yes,CTL-22,Not implemented,F-16,General Manager,Finance and Audit sub-committee
+R-13,Environmental breach from over-abstraction or chemical use,Environment,6,Medium,Low,Yes,CTL-18,Tested with exceptions,F-15,Course Manager,Finance and Audit sub-committee
+R-14,Card payment data compromise,Technology and operations,8,Medium,Moderate,Yes,CTL-20,Tested and effective,,Finance Manager,Security and Safety sub-committee
+R-15,Misuse of CCTV footage by staff or contractors,Data protection and privacy,9,Medium,Low,Yes,CTL-02; CTL-09,Tested with exceptions; Not implemented,F-05; F-07,Head of Security,Finance and Audit sub-committee
+R-16,Loss of governance knowledge when Committee members change at elections,Reputation with members,9,Medium,Low,Yes,,Governance controls (Stage 3),,Chairman,Finance and Audit sub-committee
+R-17,Conflicts of interest influence Committee decisions on suppliers,Integrity and bribery,12,High,Averse,No,,Governance controls (Stage 3),,Chairman,Finance and Audit sub-committee
+R-18,Rising member subscription arrears weaken Club finances,Financial sustainability,9,Medium,Moderate,Yes,,Governance controls (Stage 3),,Finance Manager,Finance and Audit sub-committee

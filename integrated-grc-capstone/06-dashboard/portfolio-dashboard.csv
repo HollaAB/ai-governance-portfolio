@@ -1,0 +1,16 @@
+area,measure,current_february_2027,baseline,target,status
+Compliance,Applicable obligations compliant,25 of 36 (69%),18 of 36 (50%) in October 2026,90%,Amber
+Compliance,Obligations not compliant,0,4 in October 2026,0,Green
+All projects,Findings closed,16 of 44,0 in October 2026,All High within 30 days,Amber
+All projects,Open High findings (project level),0,4 in October 2026,0,Green
+All projects,Corrective actions closed,16 of 44,0 in October 2026,Track to roadmap,Amber
+Risk,Risks outside appetite,6 of 18,9 of 18 in Q3 2026,0,Red
+Governance,Governance maturity,3.0 of 5 (Q4 2026),2.5 of 5,3.9,Amber
+Data protection,Processors under agreement,4 of 6,Not measured,100%,Amber
+AI,High-risk AI systems assessed and tested,2 of 2,0 of 2,100%,Green
+AI,Chatbot test pass rate,96% (v1.1),Not tested before v1.0,95%,Green
+Security,Accounts appropriate,14 of 24 (58%) at review; leavers and admin MFA fixed,Not measured,100%,Red
+Security,Phishing click rate,23%,Not measured,Below 5%,Red
+Incident readiness,ODPC notified within 72 hours (exercise),About 50 hours,No plan,72 hours,Green
+Incident readiness,Members warned within 24 hours (exercise),About 52 hours,No plan,24 hours,Red
+Continuity,Recovery tests met,2 of 4,Not tested,4 of 4,Red

@@ -1,0 +1,29 @@
+project,action_id,finding_ref,action,owner_role,priority,due_date,status,phase
+Compliance Management System,CA-07,F-07,"Approve a retention schedule, set CCTV retention to a justified period, and run the first disposal.",Compliance Officer (DPO),Medium,2027-01-29,In progress,Phase 1: by March 2027
+Compliance Management System,CA-09,F-09,Make the register part of every purchase above a set value and set up a confidential reporting email and phone line.,General Manager,Medium,2027-01-29,Open,Phase 1: by March 2027
+Compliance Management System,CA-10,F-10,"Obtain signed contracts for the 4 employees, then check all seasonal staff files.",HR Manager,Medium,2027-01-29,Open,Phase 1: by March 2027
+Compliance Management System,CA-13,F-13,Move all licence dates into the compliance calendar with 60-day reminders to two people.,General Manager,Medium,2027-01-29,Open,Phase 1: by March 2027
+Compliance Management System,CA-14,F-14,Renew the 6 certificates now and add certificate expiry dates to the compliance calendar.,F&B Manager,Medium,2027-01-29,Open,Phase 1: by March 2027
+Compliance Management System,CA-16,F-16,Start the regulatory change log and report it to the Finance and Audit sub-committee each quarter.,Compliance Officer (DPO),Medium,2027-01-29,Open,Phase 1: by March 2027
+Data Protection and Privacy Assurance,DCA-01,DPF-01,"Sign an agreement covering CCTV viewing, the visitor register and confidentiality.",Head of Security,Medium,2027-01-31,Open,Phase 1: by March 2027
+Data Protection and Privacy Assurance,DCA-03,DPF-03,Complete disposal DL-04 by 31 January 2027.,Compliance Officer (DPO),Medium,2027-01-31,In progress,Phase 1: by March 2027
+Enterprise Governance and Risk Dashboard,GCA-04,GF-04,Annual declarations from January 2027 (D-2026-10-07).,General Manager,Medium,2027-01-31,Open,Phase 1: by March 2027
+Enterprise Governance and Risk Dashboard,GCA-07,GF-07,Legal opinion and decision on the engagement model (D-2026-10-08).,General Manager,Medium,2027-01-31,Open,Phase 1: by March 2027
+AI Governance Framework,AICA-03,AIF-03,"Obtain the certificate and scope, or an independent security report, by February 2027.",Compliance Officer (DPO),Medium,2027-02-28,Open,Phase 1: by March 2027
+Security Risk and Incident Management,SCA-03,SF-03,Named accounts for reception; remove excess rights.,ICT Officer,Medium,2027-02-28,In progress,Phase 1: by March 2027
+Security Risk and Incident Management,SCA-09,SF-09,Pre-approve a warning; DPO can send it within 24 hours.,Membership and Events Manager,Low,2027-02-28,Open,Phase 1: by March 2027
+AI Governance Framework,AICA-02,AIF-02,Add Swahili content to the knowledge base; hand off on low confidence; retest in March 2027.,Membership and Events Manager,Medium,2027-03-31,Open,Phase 1: by March 2027
+AI Governance Framework,AICA-04,AIF-04,Brief all office staff on the acceptable-use policy.,HR Manager,Low,2027-03-31,Open,Phase 1: by March 2027
+Data Protection and Privacy Assurance,DCA-02,DPF-02,Sign an agreement or share only names and numbers needed.,Membership and Events Manager,Low,2027-03-31,Open,Phase 1: by March 2027
+Data Protection and Privacy Assurance,DCA-04,DPF-04,Train all staff who handle personal data by March 2027; add to induction.,HR Manager,Medium,2027-03-31,Open,Phase 1: by March 2027
+Enterprise Governance and Risk Dashboard,GCA-06,GF-06,Co-opt a member with technology or data protection skills; annual Committee training.,Chairman,Low,2027-03-31,Open,Phase 1: by March 2027
+Enterprise Governance and Risk Dashboard,GCA-08,GF-08,Consult members before any high-risk service launch; publish a summary of each DPIA.,Membership and Events Manager,Low,2027-03-31,Open,Phase 1: by March 2027
+Security Risk and Incident Management,SCA-04,SF-04,Agree export alerts and an out-of-hours line; add to the contract and contact list.,Compliance Officer (DPO),Medium,2027-03-31,Open,Phase 1: by March 2027
+Security Risk and Incident Management,SCA-05,SF-05,Ask FairwayOne for more frequent backups or accept the risk formally.,ICT Officer,Medium,2027-03-31,Open,Phase 1: by March 2027
+Compliance Management System,CA-08,F-08,Add an opt-out line to the WhatsApp template and honour opt-outs within 48 hours.,Membership and Events Manager,Low,2027-04-30,Open,Phase 2: April to June 2027
+Compliance Management System,CA-12,F-12,Set quarterly committee dates for the year and complete the workshop risk assessment.,HR Manager,Low,2027-04-30,Open,Phase 2: April to June 2027
+Compliance Management System,CA-15,F-15,"Check the 3 products, stop using any that are unregistered, and make the number a required field.",Course Manager,Low,2027-04-30,Open,Phase 2: April to June 2027
+Security Risk and Incident Management,SCA-06,SF-06,Add a camera and lighting.,Head of Security,Medium,2027-04-30,Open,Phase 2: April to June 2027
+Security Risk and Incident Management,SCA-08,SF-08,Awareness training for all office staff; repeat the simulation in 6 months.,HR Manager,Medium,2027-04-30,Open,Phase 2: April to June 2027
+Security Risk and Incident Management,SCA-10,SF-10,Buy a spare recorder or back up key cameras to the cloud.,Head of Security,Medium,2027-04-30,Open,Phase 2: April to June 2027
+Security Risk and Incident Management,SCA-07,SF-07,Complete the register; rekey the cash office.,Head of Security,Low,2027-05-31,Open,Phase 2: April to June 2027

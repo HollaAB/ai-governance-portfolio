@@ -1,0 +1,6 @@
+id,finding_ref,action,owner_role,priority,due_date,status,linked_project_actions
+ICA-01,IF-01,Finish named accounts with MFA for every user of member data; check monthly.,ICT Officer,High,2027-02-28,In progress,SCA-01 (closed); SCA-02 (closed); SCA-03
+ICA-02,IF-02,"Add alerting, out-of-hours contact and incident support terms to all critical supplier contracts; sign the two missing agreements.",Compliance Officer (DPO),Medium,2027-03-31,Open,SCA-04; DCA-01; DCA-02
+ICA-03,IF-03,"Delegate pre-approved fraud warnings to the DPO, informing the General Manager; adopt the template.",General Manager,High,2027-02-28,Open,SCA-09
+ICA-04,IF-04,Run one combined training programme by April 2027 and repeat the phishing simulation.,HR Manager,Medium,2027-04-30,Open,SCA-08; DCA-04; AICA-04
+ICA-05,IF-05,Decide on backup frequency and fund a spare recorder; record any risk acceptance.,General Manager,Medium,2027-04-30,Open,SCA-05; SCA-10

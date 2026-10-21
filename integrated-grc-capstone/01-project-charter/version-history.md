@@ -1,5 +1,5 @@
 # Version History: Integrated GRC and Security Management System
 
-| Version | Date | Author | Change |
+| Version | Date | Prepared by | Change |
 |---|---|---|---|
-| 0.1 | [TODO] | Abel Holla | Project set up |
+| 0.1 | 2026-10-21 | Lawrence Kinyua (draft) | Stage 6 draft: integrated case study, evidence trail, requirements-to-controls mapping, integrated risk register, cross-cutting findings, remediation roadmap, dashboard, committee paper, executive report, presentation outline, lessons learned. For review by Abel Holla. |

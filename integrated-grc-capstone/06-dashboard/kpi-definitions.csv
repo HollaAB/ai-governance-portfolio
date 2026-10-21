@@ -1,0 +1,7 @@
+id,kpi,definition,formula,target,baseline_scenario,frequency,owner_role,data_source
+PKPI-01,Obligations compliant,Applicable obligations rated Compliant,Compliant / applicable,90%,69%,Quarterly,Compliance Officer (DPO),compliance-register.csv
+PKPI-02,Open High findings,"High findings not closed, all projects",Count,0,0,Monthly,Compliance Officer (DPO),All findings registers
+PKPI-03,Roadmap actions on time,Roadmap actions closed by their due date,Closed on time / due,90%,No action due yet,Monthly,Compliance Officer (DPO),remediation-roadmap.csv
+PKPI-04,Risks outside appetite,Enterprise risks above appetite without a Committee decision,Count,0,6,Quarterly,General Manager,enterprise-risk-register.csv
+PKPI-05,Requirements traced and met,Requirements in the mapping with result Met,Met / requirements,100%,9 of 16,Quarterly,Compliance Officer (DPO),requirements-to-controls-mapping.csv
+PKPI-06,Incident readiness,"Exercise targets met (ODPC, member warning, supplier contact, containment, detection)",Met / targets,100%,2 of 5,Each exercise,ICT Officer,tabletop-exercise-report.md

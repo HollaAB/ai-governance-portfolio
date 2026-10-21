@@ -1,1 +1,7 @@
 id,conclusion_or_finding,evidence_item,file_or_location,related_requirement
+EI-01,25 of 36 applicable obligations are compliant.,Obligations register,../compliance-management-system/03-obligations-register/compliance-register.csv,Compliance Management System
+EI-02,16 requirements traced; 9 met.,Requirements-to-controls mapping,04-requirements-mapping/requirements-to-controls-mapping.csv,Methodology step 2
+EI-03,6 of 18 enterprise risks remain outside appetite.,Integrated risk and control register,04-requirements-mapping/integrated-risk-control-register.csv,Risk appetite statement
+EI-04,Five cross-cutting findings explain most open project findings.,Findings register,05-findings-and-remediation/findings-register.csv,Methodology step 4
+EI-05,28 open actions are consolidated into one roadmap.,Remediation roadmap,05-findings-and-remediation/remediation-roadmap.csv,Methodology step 5
+EI-06,The ODPC deadline was met in the exercise; the member warning was not.,Incident chronology,../security-risk-incident-management/06-tabletop-exercise/incident-chronology.csv,"Data Protection Act 2019, s.43"

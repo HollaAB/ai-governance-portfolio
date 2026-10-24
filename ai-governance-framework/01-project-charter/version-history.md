@@ -3,3 +3,4 @@
 | Version | Date | Prepared by | Change |
 |---|---|---|---|
 | 0.1 | 2026-10-21 | Lawrence Kinyua (draft) | Stage 4 draft: charter, lifecycle, inventory, classification, Kijani Assist impact assessment and testing, oversight matrix, acceptable-use policy, vendor due diligence, change and incident registers, findings, reporting. For review by Abel Holla. |
+| 0.2 | 2026-10-24 | Lawrence Kinyua | Legal references confirmed by Abel Holla; verification markers removed. |

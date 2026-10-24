@@ -1,6 +1,6 @@
 id,obligation_id,activity,frequency,due_rule,owner_role,reminder_before,next_due
 CAL-01,OB-22,File and pay PAYE,Monthly,By the 9th of the following month,Finance Manager,5 days,2026-11-09
-CAL-02,OB-24,"Remit NSSF, SHIF and Housing Levy",Monthly,By each statutory deadline (to verify),Finance Manager,5 days,2026-11-09
+CAL-02,OB-24,"Remit NSSF, SHIF and Housing Levy",Monthly,By each statutory deadline,Finance Manager,5 days,2026-11-09
 CAL-03,OB-23,File and pay VAT,Monthly,By the 20th of the following month,Finance Manager,5 days,2026-11-20
 CAL-04,OB-29,Record borehole meter readings,Monthly,Last working day of the month,Course Manager,3 days,2026-10-30
 CAL-05,OB-11,Run the data disposal routine,Quarterly,Last week of each quarter,Compliance Officer (DPO),10 days,2026-12-21
@@ -22,4 +22,4 @@ CAL-20,OB-37,Annual applicability review of the whole register,Annually,By 31 Oc
 CAL-21,OB-12,Review anti-bribery procedures and the gifts register,Annually,By 30 November (scenario date),General Manager,30 days,2026-11-30
 CAL-22,OB-05,Breach notification to the ODPC,Event-driven,Within 72 hours of becoming aware,Compliance Officer (DPO),Immediate,When triggered
 CAL-23,OB-06,DPIA for new high-risk processing,Event-driven,Before the processing starts,Compliance Officer (DPO),At project approval,When triggered
-CAL-24,OB-13,Bribery report to the authorities,Event-driven,Within 24 hours (to verify),General Manager,Immediate,When triggered
+CAL-24,OB-13,Bribery report to the authorities,Event-driven,Within 24 hours,General Manager,Immediate,When triggered

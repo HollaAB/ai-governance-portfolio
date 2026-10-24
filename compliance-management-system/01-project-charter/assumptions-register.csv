@@ -2,5 +2,5 @@ id,assumption,area,source_or_rationale
 CMS-AS-01,All scenario assumptions AS-01 to AS-11 in the shared scenario apply.,All,See scenario/assumptions-register.csv.
 CMS-AS-02,Stage 1 identifies and maps obligations only; no control has been tested.,Scope,Testing happens in Stage 2.
 CMS-AS-03,Every obligation status is 'Not yet assessed' and every control is 'Proposed'.,Status,Avoids presenting untested controls as effective.
-CMS-AS-04,Legal references are marked 'To verify' until checked against the official texts.,Legal,See AS-10.
+CMS-AS-04,Legal references were checked against the official texts by Abel Holla (October 2026) and are marked 'Verified'.,Legal,See AS-10.
 CMS-AS-05,Calendar dates marked 'scenario date' are invented for the fictional Club.,Dates,Real renewal dates vary by licence and organisation.

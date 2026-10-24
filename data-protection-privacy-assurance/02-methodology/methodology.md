@@ -17,4 +17,4 @@ The Data Protection Act 2019 allows processing on the bases listed in s.30, incl
 
 ## Reference
 
-Data Protection Act 2019 and its 2021 regulations; Office of the Data Protection Commissioner guidance on DPIAs (structure followed, to verify). Legal references are marked "to verify" where the exact section or period has not been checked against the official text.
+Data Protection Act 2019 and its 2021 regulations; Office of the Data Protection Commissioner guidance on DPIAs (structure followed). Legal references were checked against the official texts by Abel Holla (October 2026).

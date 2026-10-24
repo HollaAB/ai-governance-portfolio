@@ -56,8 +56,10 @@ The Notion portfolio link will be added here once the site is published.
 
 ## Licence
 
-To be confirmed.
+The content of this repository is licensed under [Creative Commons Attribution 4.0 International (CC BY 4.0)](LICENSE). You may share and adapt it, with credit to Abel Holla.
 
 ## Contact
 
-[LinkedIn: Abel Holla](https://www.linkedin.com/in/abel-holla-699905a0/)
+Email: [hollaabel23@gmail.com](mailto:hollaabel23@gmail.com)
+
+LinkedIn: [Abel Holla](https://www.linkedin.com/in/abel-holla-699905a0/)

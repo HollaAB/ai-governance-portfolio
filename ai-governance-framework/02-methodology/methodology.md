@@ -12,4 +12,4 @@ Draft 0.1, prepared for review by Abel Holla.
 
 ## Reference frameworks
 
-The structure follows the NIST AI Risk Management Framework 1.0 functions (Govern, Map, Measure, Manage) and the management system approach of ISO/IEC 42001:2023. Kenya's National AI Strategy 2025 to 2030 (to verify) and the Data Protection Act 2019, including s.35 on automated decisions (to verify), set the local context. Using these frameworks does not mean the Club or this project is certified against them.
+The structure follows the NIST AI Risk Management Framework 1.0 functions (Govern, Map, Measure, Manage) and the management system approach of ISO/IEC 42001:2023. Kenya's National AI Strategy 2025 to 2030 and the Data Protection Act 2019, including s.35 on automated decisions, set the local context. Using these frameworks does not mean the Club or this project is certified against them.

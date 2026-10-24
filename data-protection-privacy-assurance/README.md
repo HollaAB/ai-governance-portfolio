@@ -18,7 +18,7 @@ Build a working data protection programme and close those findings. AI-specific 
 
 ## 3. Frameworks and methodology
 
-Kenya's Data Protection Act 2019 and its 2021 regulations, with the DPIA structure from ODPC guidance (to verify). Details: [methodology](02-methodology/methodology.md).
+Kenya's Data Protection Act 2019 and its 2021 regulations, with the DPIA structure from ODPC guidance. Details: [methodology](02-methodology/methodology.md).
 
 ## 4. Deliverables and selected evidence
 

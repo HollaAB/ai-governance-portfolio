@@ -12,7 +12,7 @@ Draft 0.1, prepared for review by Abel Holla.
 6. **Set the calendar.** Turn every recurring or event-driven duty into a calendar entry with an owner, deadline rule and reminder.
 7. **Define evidence.** For each obligation, state what record proves it is met and where it is kept.
 8. **Check traceability.** Every applicable obligation must link to an owner, a control and an evidence item (see the validation rules in the [data dictionary](../03-obligations-register/data-dictionary.md)).
-9. **Verify sources.** Each legal reference stays marked "To verify" until it is checked against the official text.
+9. **Verify sources.** Each legal reference was checked against the official texts by Abel Holla (October 2026) and marked "Verified".
 
 ## Stage 2: Gap assessment (to follow)
 

@@ -1,12 +1,12 @@
 id,requirement,source,controls,test_or_evidence,result,finding_refs,action_refs,status
 RM-01,Notify the ODPC of a notifiable breach within 72 hours,"Data Protection Act 2019, s.43 (OB-05)",Breach response plan; incident response plan,Tabletop exercise: about 50 hours,Met,,,Compliant
 RM-02,Tell affected people without undue delay where there is a risk of harm,"Data Protection Act 2019, s.43 (OB-05)",Breach response plan; playbook 1 step 5,Tabletop exercise: about 52 hours,Not met,SF-09; IF-03,SCA-09; ICA-03,Open
-RM-03,Keep personal data secure (appropriate technical and organisational measures),"Data Protection Act 2019, s.41 (to verify)",Access control policy; MFA; named accounts,Access review: 14 of 24 accounts appropriate,Not met,SF-01; SF-02; SF-03; IF-01,SCA-01; SCA-02; SCA-03; ICA-01,In progress
+RM-03,Keep personal data secure (appropriate technical and organisational measures),"Data Protection Act 2019, s.41",Access control policy; MFA; named accounts,Access review: 14 of 24 accounts appropriate,Not met,SF-01; SF-02; SF-03; IF-01,SCA-01; SCA-02; SCA-03; ICA-01,In progress
 RM-04,Processors under written agreements,Data Protection Act 2019 and General Regulations (OB-07),Processor register; agreements,Review: 4 of 6 signed,Partly met,DPF-01; DPF-02,DCA-01; DCA-02,Open
 RM-05,Processors able to support the Club in an incident,Club breach response plan; processor agreements,Agreement terms; supplier contact list,Tabletop: FairwayOne unreachable at the weekend; no export alert,Not met,SF-04; IF-02,SCA-04; ICA-02,Open
 RM-06,Transfers outside Kenya with safeguards,"Data Protection Act 2019, s.48 and s.49 (OB-08)",Transfer assessment; agreements,Review of both transfers,Met,,,Compliant
 RM-07,DPIA before high-risk processing,"Data Protection Act 2019, s.31 (OB-06)",DPIA procedure,DPIA-01 and DPIA-02 approved,Met,,,Compliant
-RM-08,No significant decision about a person by automated means alone,"Data Protection Act 2019, s.35 (to verify)",Guard handles ANPR non-matches; human oversight matrix,Incident AII-02 and guard procedure,Met,AIF-05 (closed),AICA-05,Compliant
+RM-08,No significant decision about a person by automated means alone,"Data Protection Act 2019, s.35",Guard handles ANPR non-matches; human oversight matrix,Incident AII-02 and guard procedure,Met,AIF-05 (closed),AICA-05,Compliant
 RM-09,Chatbot shares account data only after verification,DPIA-02 measure; AI impact assessment,One-time PIN (v1.1),AI tests: 30 of 30 account tests passed,Met,AIF-01 (closed),AICA-01,Compliant
 RM-10,Lawful basis recorded for each use of personal data,"Data Protection Act 2019, s.25 and s.30 (OB-02)",Personal data inventory,14 of 14 activities recorded,Met,,,Compliant
 RM-11,High-risk technology approved by the Management Committee,Delegation of authority,Reserved matters; AI lifecycle,Decisions D-2026-12-01 and D-2026-12-02,Met,GF-02 (closed),GCA-02,Compliant

@@ -25,7 +25,7 @@ All results, dates and decisions are scenario results for the fictional Club.
 | Is data limited to what is needed? | No cameras in changing rooms or toilets. ANPR stores plate and time only. |
 | How long is data kept? | Previously 180 days for CCTV and indefinitely for ANPR; reduced to 30 days (see measures). |
 | Lawful basis | CCTV: legitimate interests, balanced against members' expectations. ANPR: consent of members who opt in; non-members' plates are not matched. |
-| Automated decisions | ANPR opens the gate automatically. A guard handles any non-match, so no one is refused entry by the system alone (Data Protection Act 2019, s.35, to verify). |
+| Automated decisions | ANPR opens the gate automatically. A guard handles any non-match, so no one is refused entry by the system alone (Data Protection Act 2019, s.35). |
 
 ## 3. Risks
 

@@ -14,7 +14,7 @@
 ## Limitations
 
 - **Fictional organisation and scenario results.** Every figure, decision and event is invented for the portfolio.
-- **Legal references to verify.** Items marked "to verify" must be checked against official texts.
+- **Legal references.** Checked against the official texts by Abel Holla (October 2026).
 - **No technical testing.** No real systems were scanned or tested.
 - **Frameworks as structure only.** ISO and NIST frameworks were used to organise the work; no certification or audit opinion is implied.
 - **Snapshot.** Figures reflect the registers when this capstone was prepared (February 2027, scenario).

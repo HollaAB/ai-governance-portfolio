@@ -29,4 +29,4 @@ The Data Protection Act 2019 (s.48 and s.49) allows transfers of personal data o
 
 ## Notes
 
-Legal references are marked "to verify" where the exact section or period has not been checked against the official text. Whether either transfer needs notice to or approval from the ODPC should be confirmed against the Act and the General Regulations.
+The transfers rely on the safeguards in s.48 and s.49. Legal references were checked against the official texts by Abel Holla (October 2026).

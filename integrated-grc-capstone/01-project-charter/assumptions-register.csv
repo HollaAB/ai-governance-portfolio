@@ -1,5 +1,5 @@
 id,assumption,area,source_or_rationale
 CAP-AS-01,All scenario assumptions AS-01 to AS-11 apply.,All,See scenario/assumptions-register.csv.
 CAP-AS-02,"The position shown is as at February 2027 (scenario), after all five projects.",Dates,Follows the Stage 5 exercise of 20 January 2027.
-CAP-AS-03,Figures are drawn from the other projects' registers when this project was generated; they are not recalculated afterwards.,Data,Keeps the capstone traceable to its sources.
+CAP-AS-03,Figures are drawn from the other projects' registers when this project was prepared; they are not recalculated afterwards.,Data,Keeps the capstone traceable to its sources.
 CAP-AS-04,"The Committee paper is for the meeting of 24 February 2027; its decisions are proposed, not yet taken.",Governance,Shows the next oversight cycle.

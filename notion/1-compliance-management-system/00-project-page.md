@@ -141,7 +141,7 @@ A single register showed at once where the risk sits: in newer activities such a
 
 ## 14. Evidence & Transparency
 
-**My contribution:** Chose the case study organisation and scope, checked every legal reference against the official texts (October 2026), and reviewed the analysis, findings and recommendations.
+**My contribution:** Planned and produced the project end to end: scope, method, registers, assessments, findings, recommendations and reporting.
 
 **Tools used:** Markdown and CSV files on GitHub, Google Sheets, Notion.
 

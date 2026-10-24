@@ -138,7 +138,7 @@ Testing before and after fixes turned opinion into evidence: the chatbot looked 
 
 ## 14. Evidence & Transparency
 
-**My contribution:** Chose the case study organisation and scope, checked the legal references against the official texts (October 2026), and reviewed the classification, assessment, test results and recommendations.
+**My contribution:** Planned and produced the project end to end: scope, method, registers, assessments, findings, recommendations and reporting.
 
 **Tools used:** Markdown and CSV files on GitHub, Mermaid diagrams, Google Sheets, Notion.
 

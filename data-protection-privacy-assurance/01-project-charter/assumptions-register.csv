@@ -3,5 +3,5 @@ DPP-AS-01,All scenario assumptions AS-01 to AS-11 apply.,All,See scenario/assump
 DPP-AS-02,The Club is the data controller for all activities in the inventory; the bank and mobile money provider are separate controllers.,Roles,Payment providers decide their own processing.
 DPP-AS-03,"ModelCo, the large language model provider behind Kijani Assist, is a fictional sub-processor of Sauti AI Labs, hosted outside Kenya.",Suppliers,Avoids naming a real provider.
 DPP-AS-04,Retention periods are scenario choices that meet the statutory minimums.,Retention,Real periods depend on the official texts and legal advice.
-DPP-AS-05,The data subject request timeline uses an internal target of 7 days, within the statutory period.,Rights,See the General Regulations 2021.
+DPP-AS-05,"The data subject request timeline uses an internal target of 7 days, within the statutory period.",Rights,See the General Regulations 2021.
 DPP-AS-06,Work in this project ran from November to December 2026 (scenario dates).,Dates,Follows the Stage 3 Committee decisions of 28 October 2026.

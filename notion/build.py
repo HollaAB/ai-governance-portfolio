@@ -25,6 +25,8 @@ SHEETS = {
     "Risk and Control Register": "https://docs.google.com/spreadsheets/d/1_9c-IGjCLbFHAOw7-p3wI2s1UeyEEzG0UUB396VboA8/edit?usp=sharing",
     "Governance Registers": "https://docs.google.com/spreadsheets/d/1prfa91EFsgP97aQs0rnhaqysLOVxt9SBWpS1QKpl1eA/edit?usp=sharing",
     "Governance Dashboard": "https://docs.google.com/spreadsheets/d/1WdWOBQaNvYuPVBOwzLxsbHAFZ01MXY0msRdhnJ_AuzQ/edit?usp=sharing",
+    "Data Protection Registers": "https://docs.google.com/spreadsheets/d/1xvSJqwO70hrNuU17q9cTIVuVynfDOQkJpjpIOjFVN6s/edit?usp=sharing",
+    "AI Registers": "https://docs.google.com/spreadsheets/d/10NqLBDhwQJyzEpQieYNtJJ7SAKmWJNhL2XUsC8JNSAM/edit?usp=sharing",
 }
 
 # Each subpage: (file name, list of parts). A part is a source path, or

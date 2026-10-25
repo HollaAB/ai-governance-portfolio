@@ -1,3 +1,3 @@
 Inventory, processors, retention, requests and breaches.
 
-[/embed: paste the Data Protection Registers sheet link]
+[/embed: https://docs.google.com/spreadsheets/d/1xvSJqwO70hrNuU17q9cTIVuVynfDOQkJpjpIOjFVN6s/edit?usp=sharing (Data Protection Registers)]

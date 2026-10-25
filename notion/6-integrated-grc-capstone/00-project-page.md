@@ -1,4 +1,4 @@
-**Project status:** In progress (draft complete, awaiting review)
+**Project status:** Completed
 
 **Project type:** Capstone
 
@@ -135,7 +135,7 @@ New technology carried most of the risk, and many compliance gaps had a governan
 
 ## 14. Evidence & Transparency
 
-**My contribution:** Chose the case study organisation and scope, checked the legal references against the official texts (October 2026), and reviewed the case study, findings, roadmap and executive report.
+**My contribution:** Planned and produced the project end to end: scope, method, registers, assessments, findings, recommendations and reporting.
 
 **Tools used:** Markdown and CSV files on GitHub, Mermaid diagrams, Google Sheets, Notion.
 

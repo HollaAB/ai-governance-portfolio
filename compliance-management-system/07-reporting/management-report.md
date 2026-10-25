@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.2, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 **To:** Finance and Audit sub-committee, Kijani Heights Golf and Country Club
 **From:** Compliance Officer (DPO)

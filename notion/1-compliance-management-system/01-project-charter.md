@@ -1,6 +1,6 @@
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -51,6 +51,6 @@ The Management Committee of Kijani Heights Golf and Country Club wants one relia
 
 See the [methodology](https://github.com/HollaAB/ai-governance-portfolio/blob/main/compliance-management-system/02-methodology/methodology.md).
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

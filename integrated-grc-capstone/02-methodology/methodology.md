@@ -1,6 +1,6 @@
 # Methodology: Integrated GRC and Security Management System
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 1. **Choose one case.** Use the Stage 5 "Saturday Medal" incident as the thread, because it touches every function.
 2. **Trace requirements.** For each key requirement (law, contract or Club policy) the incident tested, follow the chain: requirement, control, test evidence, result, finding, corrective action, status. Record it in the [requirements-to-controls mapping](../04-requirements-mapping/requirements-to-controls-mapping.csv).

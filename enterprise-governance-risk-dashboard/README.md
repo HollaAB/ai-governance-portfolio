@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 3 | **Area:** Governance
+**Status:** Complete | **Stage:** 3 | **Area:** Governance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,14 +24,14 @@ ISO 37000:2021 governance principles for the maturity assessment; ISO 31000:2018
 
 | Deliverable | File | Status |
 |---|---|---|
-| Governance framework | [governance-framework.md](03-governance-framework/governance-framework.md), [delegation-of-authority.csv](03-governance-framework/delegation-of-authority.csv), [committee-terms-of-reference.md](03-governance-framework/committee-terms-of-reference.md), [conflict-of-interest-declaration.md](03-governance-framework/conflict-of-interest-declaration.md) | Draft for review |
-| RACI matrix | [raci-matrix.csv](04-accountability/raci-matrix.csv), [escalation-matrix.csv](04-accountability/escalation-matrix.csv), [committee-skills-matrix.csv](04-accountability/committee-skills-matrix.csv) | Draft for review |
-| Risk appetite statement | [risk-appetite-statement.md](05-risk-governance/risk-appetite-statement.md) | Draft for review |
-| Enterprise risk register and KRI catalogue | [enterprise-risk-register.csv](05-risk-governance/enterprise-risk-register.csv), [kri-catalogue.csv](05-risk-governance/kri-catalogue.csv) | Draft for review |
-| Decision register | [decision-register.csv](06-board-oversight/decision-register.csv), [action-register.csv](06-board-oversight/action-register.csv) | Draft for review |
-| Board oversight trail (board paper, minutes, actions, closure) | [oversight-workflow.md](06-board-oversight/oversight-workflow.md), [board-paper.md](06-board-oversight/board-paper.md), [minutes.md](06-board-oversight/minutes.md) | Draft for review |
-| Committee report | [committee-report.md](08-reporting/committee-report.md) | Draft for review |
-| KPI/KRI dashboard | [dashboard-data.csv](08-reporting/dashboard-data.csv) | Draft for review |
+| Governance framework | [governance-framework.md](03-governance-framework/governance-framework.md), [delegation-of-authority.csv](03-governance-framework/delegation-of-authority.csv), [committee-terms-of-reference.md](03-governance-framework/committee-terms-of-reference.md), [conflict-of-interest-declaration.md](03-governance-framework/conflict-of-interest-declaration.md) | Complete |
+| RACI matrix | [raci-matrix.csv](04-accountability/raci-matrix.csv), [escalation-matrix.csv](04-accountability/escalation-matrix.csv), [committee-skills-matrix.csv](04-accountability/committee-skills-matrix.csv) | Complete |
+| Risk appetite statement | [risk-appetite-statement.md](05-risk-governance/risk-appetite-statement.md) | Complete |
+| Enterprise risk register and KRI catalogue | [enterprise-risk-register.csv](05-risk-governance/enterprise-risk-register.csv), [kri-catalogue.csv](05-risk-governance/kri-catalogue.csv) | Complete |
+| Decision register | [decision-register.csv](06-board-oversight/decision-register.csv), [action-register.csv](06-board-oversight/action-register.csv) | Complete |
+| Board oversight trail (board paper, minutes, actions, closure) | [oversight-workflow.md](06-board-oversight/oversight-workflow.md), [board-paper.md](06-board-oversight/board-paper.md), [minutes.md](06-board-oversight/minutes.md) | Complete |
+| Committee report | [committee-report.md](08-reporting/committee-report.md) | Complete |
+| KPI/KRI dashboard | [dashboard-data.csv](08-reporting/dashboard-data.csv) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

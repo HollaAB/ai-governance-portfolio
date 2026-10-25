@@ -1,6 +1,6 @@
 # Methodology: AI Governance Framework
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 1. **Inventory.** Ask every department and supplier which tools use AI (including features inside vendor software) and record them in the [AI system inventory](../03-ai-inventory/ai-system-inventory.csv).
 2. **Classify.** Score each use case against the criteria in the [classification method](../04-classification/ai-risk-classification-method.md) and record the tier.

@@ -1,6 +1,6 @@
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 Refreshed terms for the two sub-committees that oversee risk, compliance and safety. The other sub-committees follow the same format.
 

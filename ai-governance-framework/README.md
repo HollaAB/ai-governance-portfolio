@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 4 | **Area:** Governance; AI & Data Governance
+**Status:** Complete | **Stage:** 4 | **Area:** Governance; AI & Data Governance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,17 +24,17 @@ NIST AI RMF 1.0 functions and the ISO/IEC 42001:2023 management system approach,
 
 | Deliverable | File | Status |
 |---|---|---|
-| AI governance charter | [ai-governance-charter.md](06-oversight/ai-governance-charter.md) | Draft for review |
-| AI system inventory and use-case register | [ai-system-inventory.csv](03-ai-inventory/ai-system-inventory.csv) | Draft for review |
-| AI risk classification methodology | [ai-risk-classification-method.md](04-classification/ai-risk-classification-method.md), [use-case-classification.csv](04-classification/use-case-classification.csv) | Draft for review |
-| AI impact assessment | [ai-impact-assessment-kijani-assist.md](05-impact-assessment/ai-impact-assessment-kijani-assist.md) | Draft for review |
-| AI testing and validation protocol | [ai-testing-protocol.md](05-impact-assessment/ai-testing-protocol.md), [test-results.csv](05-impact-assessment/test-results.csv) | Draft for review |
-| Human oversight and accountability matrix | [human-oversight-matrix.csv](06-oversight/human-oversight-matrix.csv) | Draft for review |
-| AI acceptable-use policy | [ai-acceptable-use-policy.md](06-oversight/ai-acceptable-use-policy.md) | Draft for review |
-| Vendor AI due-diligence checklist | [vendor-ai-due-diligence-checklist.csv](07-third-party/vendor-ai-due-diligence-checklist.csv) | Draft for review |
-| Model change register | [model-change-register.csv](07-third-party/model-change-register.csv) | Draft for review |
-| AI incident and exception register | [ai-incident-register.csv](08-incidents/ai-incident-register.csv) | Draft for review |
-| AI governance committee report | [ai-governance-committee-report.md](10-reporting/ai-governance-committee-report.md) | Draft for review |
+| AI governance charter | [ai-governance-charter.md](06-oversight/ai-governance-charter.md) | Complete |
+| AI system inventory and use-case register | [ai-system-inventory.csv](03-ai-inventory/ai-system-inventory.csv) | Complete |
+| AI risk classification methodology | [ai-risk-classification-method.md](04-classification/ai-risk-classification-method.md), [use-case-classification.csv](04-classification/use-case-classification.csv) | Complete |
+| AI impact assessment | [ai-impact-assessment-kijani-assist.md](05-impact-assessment/ai-impact-assessment-kijani-assist.md) | Complete |
+| AI testing and validation protocol | [ai-testing-protocol.md](05-impact-assessment/ai-testing-protocol.md), [test-results.csv](05-impact-assessment/test-results.csv) | Complete |
+| Human oversight and accountability matrix | [human-oversight-matrix.csv](06-oversight/human-oversight-matrix.csv) | Complete |
+| AI acceptable-use policy | [ai-acceptable-use-policy.md](06-oversight/ai-acceptable-use-policy.md) | Complete |
+| Vendor AI due-diligence checklist | [vendor-ai-due-diligence-checklist.csv](07-third-party/vendor-ai-due-diligence-checklist.csv) | Complete |
+| Model change register | [model-change-register.csv](07-third-party/model-change-register.csv) | Complete |
+| AI incident and exception register | [ai-incident-register.csv](08-incidents/ai-incident-register.csv) | Complete |
+| AI governance committee report | [ai-governance-committee-report.md](10-reporting/ai-governance-committee-report.md) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

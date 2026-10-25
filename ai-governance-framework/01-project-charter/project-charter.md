@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -20,6 +20,6 @@ Kijani Heights Golf and Country Club launched an AI chatbot and number-plate rec
 - Every AI system has a named owner and a human who can override it.
 - Vendors are checked before and during use; changes and incidents are recorded.
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -20,6 +20,6 @@ The five earlier projects each looked at one function. A real incident does not 
 - Every key requirement traceable from law or policy to evidence and action.
 - One prioritised roadmap the Committee can approve and track.
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

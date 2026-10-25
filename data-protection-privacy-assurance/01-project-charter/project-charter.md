@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -26,6 +26,6 @@ The Stage 2 compliance review found the Club's biggest gaps in data protection: 
 
 Closes compliance findings F-01, F-02, F-04, F-05, F-06 and F-07 ([findings register](../../compliance-management-system/06-remediation/findings-register.csv)) and actions A-04 and A-05 of the Management Committee ([action register](../../enterprise-governance-risk-dashboard/06-board-oversight/action-register.csv)).
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

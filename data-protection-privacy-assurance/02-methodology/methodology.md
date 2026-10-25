@@ -1,6 +1,6 @@
 # Methodology: Data Protection and Privacy Assurance
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 1. **Inventory.** Interview each department and list every processing activity: data subjects, data categories, purpose, lawful basis, source, systems, recipients, transfers and retention. Record it in the [personal data inventory](../03-data-inventory/personal-data-inventory.csv), which serves as the record of processing activities.
 2. **Map flows.** Draw how data moves between the Club, its systems and its processors in the [data-flow map](../03-data-inventory/data-flow-map.md).

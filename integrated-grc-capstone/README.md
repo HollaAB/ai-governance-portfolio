@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 6 | **Area:** Compliance; Governance; Security; AI & Data Governance
+**Status:** Complete | **Stage:** 6 | **Area:** Compliance; Governance; Security; AI & Data Governance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,13 +24,13 @@ Links the frameworks used in the earlier projects (ISO 37301, ISO 37000, ISO 310
 
 | Deliverable | File | Status |
 |---|---|---|
-| Scenario and incident chronology | [integrated-case-study.md](03-case-study/integrated-case-study.md), [evidence-trail.md](03-case-study/evidence-trail.md) | Draft for review |
-| Requirements-to-controls mapping | [requirements-to-controls-mapping.csv](04-requirements-mapping/requirements-to-controls-mapping.csv), [integrated-risk-control-register.csv](04-requirements-mapping/integrated-risk-control-register.csv) | Draft for review |
-| Gap findings | [findings-register.csv](05-findings-and-remediation/findings-register.csv) | Draft for review |
-| Remediation plan | [remediation-roadmap.md](05-findings-and-remediation/remediation-roadmap.md), [remediation-roadmap.csv](05-findings-and-remediation/remediation-roadmap.csv) | Draft for review |
-| KPI dashboard | [portfolio-dashboard.csv](06-dashboard/portfolio-dashboard.csv), [committee-paper.md](06-dashboard/committee-paper.md) | Draft for review |
-| Executive report and presentation | [executive-report.md](07-executive/executive-report.md), [presentation-outline.md](07-executive/presentation-outline.md) | Draft for review |
-| Lessons learned and limitations | [lessons-learned.md](07-executive/lessons-learned.md) | Draft for review |
+| Scenario and incident chronology | [integrated-case-study.md](03-case-study/integrated-case-study.md), [evidence-trail.md](03-case-study/evidence-trail.md) | Complete |
+| Requirements-to-controls mapping | [requirements-to-controls-mapping.csv](04-requirements-mapping/requirements-to-controls-mapping.csv), [integrated-risk-control-register.csv](04-requirements-mapping/integrated-risk-control-register.csv) | Complete |
+| Gap findings | [findings-register.csv](05-findings-and-remediation/findings-register.csv) | Complete |
+| Remediation plan | [remediation-roadmap.md](05-findings-and-remediation/remediation-roadmap.md), [remediation-roadmap.csv](05-findings-and-remediation/remediation-roadmap.csv) | Complete |
+| KPI dashboard | [portfolio-dashboard.csv](06-dashboard/portfolio-dashboard.csv), [committee-paper.md](06-dashboard/committee-paper.md) | Complete |
+| Executive report and presentation | [executive-report.md](07-executive/executive-report.md), [presentation-outline.md](07-executive/presentation-outline.md) | Complete |
+| Lessons learned and limitations | [lessons-learned.md](07-executive/lessons-learned.md) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -21,6 +21,6 @@ The Club's data protection and AI work (Stage 4) depends on systems and people b
 - Staff know what to do in an incident, and the 72-hour breach clock is met.
 - Critical services can continue or recover within agreed times.
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

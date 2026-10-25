@@ -1,4 +1,4 @@
-[/embed: paste the Governance Dashboard sheet link]
+[/embed: https://docs.google.com/spreadsheets/d/1WdWOBQaNvYuPVBOwzLxsbHAFZ01MXY0msRdhnJ_AuzQ/edit?usp=sharing (Governance Dashboard)]
 
 # Quarterly Governance and Risk Report, Q4 2026
 

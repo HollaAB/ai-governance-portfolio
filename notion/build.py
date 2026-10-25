@@ -23,6 +23,8 @@ SHEETS = {
     "Scenario Assumptions": "https://docs.google.com/spreadsheets/d/1EDWdZJCT_bpGn-bPAAUf_3yXC1zwogaKbJT26HELL24/edit?usp=sharing",
     "Compliance Register": "https://docs.google.com/spreadsheets/d/1tzT1RGcLlqHepqQ1ULwBknp7fVk33E_-d9_jNzCFAjI/edit?usp=sharing",
     "Risk and Control Register": "https://docs.google.com/spreadsheets/d/1_9c-IGjCLbFHAOw7-p3wI2s1UeyEEzG0UUB396VboA8/edit?usp=sharing",
+    "Governance Registers": "https://docs.google.com/spreadsheets/d/1prfa91EFsgP97aQs0rnhaqysLOVxt9SBWpS1QKpl1eA/edit?usp=sharing",
+    "Governance Dashboard": "https://docs.google.com/spreadsheets/d/1WdWOBQaNvYuPVBOwzLxsbHAFZ01MXY0msRdhnJ_AuzQ/edit?usp=sharing",
 }
 
 # Each subpage: (file name, list of parts). A part is a source path, or

@@ -29,6 +29,7 @@ SHEETS = {
     "AI Registers": "https://docs.google.com/spreadsheets/d/10NqLBDhwQJyzEpQieYNtJJ7SAKmWJNhL2XUsC8JNSAM/edit?usp=sharing",
     "Security Registers": "https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?usp=sharing",
     "Security Registers, Chronology tab": "https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?gid=688519864#gid=688519864",
+    "Capstone Registers": "https://docs.google.com/spreadsheets/d/1NTmaB_20ha_D8krAVViKqMJ-SXk21Y2YaQqvQIClmRw/edit?usp=sharing",
 }
 
 # Each subpage: (file name, list of parts). A part is a source path, or

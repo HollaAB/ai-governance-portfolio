@@ -64,4 +64,4 @@ July 2027: a ransomware scenario affecting the point-of-sale system.
 
 Full timeline: [incident-chronology.csv](https://github.com/HollaAB/ai-governance-portfolio/blob/main/security-risk-incident-management/06-tabletop-exercise/incident-chronology.csv).
 
-[/embed: paste the Security Registers (select the Chronology tab before copying the link) sheet link]
+[/embed: https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?gid=688519864#gid=688519864 (Security Registers, Chronology tab)]

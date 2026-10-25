@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 1 and 2 | **Area:** Compliance
+**Status:** Complete | **Stage:** 1 and 2 | **Area:** Compliance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,16 +24,16 @@ Structured after ISO 37301:2021 (compliance management systems), applied to Keny
 
 | Deliverable | File | Status |
 |---|---|---|
-| Legal and regulatory obligations register | [compliance-register.csv](03-obligations-register/compliance-register.csv) | Draft for review |
-| Obligations-to-controls matrix | [obligations-to-controls-matrix.csv](03-obligations-register/obligations-to-controls-matrix.csv) | Draft for review |
-| Compliance calendar | [compliance-calendar.csv](03-obligations-register/compliance-calendar.csv) | Draft for review |
-| Evidence register | [evidence-register.csv](03-obligations-register/evidence-register.csv) | Draft for review |
-| Regulatory change-monitoring procedure | [regulatory-change-procedure.md](03-obligations-register/regulatory-change-procedure.md) | Draft for review |
-| Gap assessment and testing workpapers | [assessment-methodology.md](04-gap-assessment/assessment-methodology.md), [testing-workpapers.csv](04-gap-assessment/testing-workpapers.csv) | Draft for review |
-| Controls matrix and compliance policy | [compliance-policy.md](05-controls-and-policies/compliance-policy.md) | Draft for review |
-| Monitoring plan | [monitoring-plan.md](05-controls-and-policies/monitoring-plan.md) | Draft for review |
-| Risk and control register (shared with later projects) | [risk-and-control-register.csv](risk-and-control-register.csv) | Draft for review |
-| Management report | [management-report.md](07-reporting/management-report.md) | Draft for review |
+| Legal and regulatory obligations register | [compliance-register.csv](03-obligations-register/compliance-register.csv) | Complete |
+| Obligations-to-controls matrix | [obligations-to-controls-matrix.csv](03-obligations-register/obligations-to-controls-matrix.csv) | Complete |
+| Compliance calendar | [compliance-calendar.csv](03-obligations-register/compliance-calendar.csv) | Complete |
+| Evidence register | [evidence-register.csv](03-obligations-register/evidence-register.csv) | Complete |
+| Regulatory change-monitoring procedure | [regulatory-change-procedure.md](03-obligations-register/regulatory-change-procedure.md) | Complete |
+| Gap assessment and testing workpapers | [assessment-methodology.md](04-gap-assessment/assessment-methodology.md), [testing-workpapers.csv](04-gap-assessment/testing-workpapers.csv) | Complete |
+| Controls matrix and compliance policy | [compliance-policy.md](05-controls-and-policies/compliance-policy.md) | Complete |
+| Monitoring plan | [monitoring-plan.md](05-controls-and-policies/monitoring-plan.md) | Complete |
+| Risk and control register (shared with later projects) | [risk-and-control-register.csv](risk-and-control-register.csv) | Complete |
+| Management report | [management-report.md](07-reporting/management-report.md) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

@@ -1,4 +1,4 @@
-**Project status:** In progress (draft complete, awaiting review)
+**Project status:** Completed
 
 **Project type:** Capstone
 

@@ -177,7 +177,7 @@ Folder: `6-integrated-grc-capstone/`
 
 ## Before publishing
 
-- When Abel approves a project, change the `Project status:` line at the top of its page to `Completed`, along with the Status property.
+- Set each project row's Status property to `Completed`, to match the `Project status:` line at the top of its page.
 
 ## Keeping the pack up to date
 

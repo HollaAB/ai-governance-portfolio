@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 4 | **Area:** Compliance; AI & Data Governance
+**Status:** Complete | **Stage:** 4 | **Area:** Compliance; AI & Data Governance
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,15 +24,15 @@ Kenya's Data Protection Act 2019 and its 2021 regulations, with the DPIA structu
 
 | Deliverable | File | Status |
 |---|---|---|
-| Personal data inventory (record of processing) | [personal-data-inventory.csv](03-data-inventory/personal-data-inventory.csv) | Draft for review |
-| Data-flow map | [data-flow-map.md](03-data-inventory/data-flow-map.md) | Draft for review |
-| DPIAs | [dpia-01-gate-cctv-and-anpr.md](04-dpia/dpia-01-gate-cctv-and-anpr.md), [dpia-02-kijani-assist.md](04-dpia/dpia-02-kijani-assist.md), [dpia-procedure.md](04-dpia/dpia-procedure.md) | Draft for review |
-| Processor register and transfer assessment | [processor-register.csv](05-processors/processor-register.csv), [cross-border-transfer-assessment.md](05-processors/cross-border-transfer-assessment.md) | Draft for review |
-| Retention schedule | [retention-schedule.csv](06-retention/retention-schedule.csv), [disposal-log.csv](06-retention/disposal-log.csv) | Draft for review |
-| Privacy notice and CCTV signs | [privacy-notice.md](07-rights-and-notices/privacy-notice.md) | Draft for review |
-| Data subject request procedure | [data-subject-request-procedure.md](07-rights-and-notices/data-subject-request-procedure.md), [data-subject-request-log.csv](07-rights-and-notices/data-subject-request-log.csv) | Draft for review |
-| Breach response plan | [breach-response-plan.md](08-breach-response/breach-response-plan.md), [breach-log.csv](08-breach-response/breach-log.csv) | Draft for review |
-| Privacy assurance report | [privacy-assurance-report.md](10-reporting/privacy-assurance-report.md) | Draft for review |
+| Personal data inventory (record of processing) | [personal-data-inventory.csv](03-data-inventory/personal-data-inventory.csv) | Complete |
+| Data-flow map | [data-flow-map.md](03-data-inventory/data-flow-map.md) | Complete |
+| DPIAs | [dpia-01-gate-cctv-and-anpr.md](04-dpia/dpia-01-gate-cctv-and-anpr.md), [dpia-02-kijani-assist.md](04-dpia/dpia-02-kijani-assist.md), [dpia-procedure.md](04-dpia/dpia-procedure.md) | Complete |
+| Processor register and transfer assessment | [processor-register.csv](05-processors/processor-register.csv), [cross-border-transfer-assessment.md](05-processors/cross-border-transfer-assessment.md) | Complete |
+| Retention schedule | [retention-schedule.csv](06-retention/retention-schedule.csv), [disposal-log.csv](06-retention/disposal-log.csv) | Complete |
+| Privacy notice and CCTV signs | [privacy-notice.md](07-rights-and-notices/privacy-notice.md) | Complete |
+| Data subject request procedure | [data-subject-request-procedure.md](07-rights-and-notices/data-subject-request-procedure.md), [data-subject-request-log.csv](07-rights-and-notices/data-subject-request-log.csv) | Complete |
+| Breach response plan | [breach-response-plan.md](08-breach-response/breach-response-plan.md), [breach-log.csv](08-breach-response/breach-log.csv) | Complete |
+| Privacy assurance report | [privacy-assurance-report.md](10-reporting/privacy-assurance-report.md) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

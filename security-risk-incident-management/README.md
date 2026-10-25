@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-**Status:** Draft complete, for review | **Stage:** 5 | **Area:** Security
+**Status:** Complete | **Stage:** 5 | **Area:** Security
 
 **Organisation:** Kijani Heights Golf and Country Club (fictional), see the [organisation profile](../scenario/organisation-profile.md)
 
@@ -24,13 +24,13 @@ ISO 31000:2018 risk assessment, NIST Cybersecurity Framework 2.0 functions and I
 
 | Deliverable | File | Status |
 |---|---|---|
-| Security assessment and asset inventory | [asset-inventory.csv](03-security-assessment/asset-inventory.csv), [threat-vulnerability-assessment.csv](03-security-assessment/threat-vulnerability-assessment.csv), [site-security-survey.md](03-security-assessment/site-security-survey.md) | Draft for review |
-| Security risk register | [security-risk-register.csv](03-security-assessment/security-risk-register.csv) | Draft for review |
-| Access review | [access-control-policy.md](04-access-review/access-control-policy.md), [role-access-matrix.csv](04-access-review/role-access-matrix.csv), [access-review.csv](04-access-review/access-review.csv), [access-review-report.md](04-access-review/access-review-report.md), [phishing-simulation-results.csv](04-access-review/phishing-simulation-results.csv) | Draft for review |
-| Incident response playbook | [incident-response-plan.md](05-incident-response/incident-response-plan.md), [severity-matrix.csv](05-incident-response/severity-matrix.csv), [incident-playbooks.md](05-incident-response/incident-playbooks.md), [chain-of-custody-form.md](05-incident-response/chain-of-custody-form.md) | Draft for review |
-| Incident chronology | [scenario.md](06-tabletop-exercise/scenario.md), [incident-chronology.csv](06-tabletop-exercise/incident-chronology.csv) | Draft for review |
-| Tabletop exercise report | [tabletop-exercise-report.md](06-tabletop-exercise/tabletop-exercise-report.md) | Draft for review |
-| Remediation report | [security-management-report.md](09-reporting/security-management-report.md), [business-impact-analysis.csv](07-continuity/business-impact-analysis.csv), [continuity-and-recovery-plan.md](07-continuity/continuity-and-recovery-plan.md), [recovery-test-results.csv](07-continuity/recovery-test-results.csv) | Draft for review |
+| Security assessment and asset inventory | [asset-inventory.csv](03-security-assessment/asset-inventory.csv), [threat-vulnerability-assessment.csv](03-security-assessment/threat-vulnerability-assessment.csv), [site-security-survey.md](03-security-assessment/site-security-survey.md) | Complete |
+| Security risk register | [security-risk-register.csv](03-security-assessment/security-risk-register.csv) | Complete |
+| Access review | [access-control-policy.md](04-access-review/access-control-policy.md), [role-access-matrix.csv](04-access-review/role-access-matrix.csv), [access-review.csv](04-access-review/access-review.csv), [access-review-report.md](04-access-review/access-review-report.md), [phishing-simulation-results.csv](04-access-review/phishing-simulation-results.csv) | Complete |
+| Incident response playbook | [incident-response-plan.md](05-incident-response/incident-response-plan.md), [severity-matrix.csv](05-incident-response/severity-matrix.csv), [incident-playbooks.md](05-incident-response/incident-playbooks.md), [chain-of-custody-form.md](05-incident-response/chain-of-custody-form.md) | Complete |
+| Incident chronology | [scenario.md](06-tabletop-exercise/scenario.md), [incident-chronology.csv](06-tabletop-exercise/incident-chronology.csv) | Complete |
+| Tabletop exercise report | [tabletop-exercise-report.md](06-tabletop-exercise/tabletop-exercise-report.md) | Complete |
+| Remediation report | [security-management-report.md](09-reporting/security-management-report.md), [business-impact-analysis.csv](07-continuity/business-impact-analysis.csv), [continuity-and-recovery-plan.md](07-continuity/continuity-and-recovery-plan.md), [recovery-test-results.csv](07-continuity/recovery-test-results.csv) | Complete |
 
 ## 5. Testing results or evaluation criteria
 

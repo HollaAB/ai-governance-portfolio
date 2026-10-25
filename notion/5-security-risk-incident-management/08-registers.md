@@ -1,3 +1,3 @@
 Assets, threats, risks, access, incidents and recovery tests.
 
-[/embed: paste the Security Registers sheet link]
+[/embed: https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?usp=sharing (Security Registers)]

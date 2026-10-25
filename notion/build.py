@@ -27,6 +27,8 @@ SHEETS = {
     "Governance Dashboard": "https://docs.google.com/spreadsheets/d/1WdWOBQaNvYuPVBOwzLxsbHAFZ01MXY0msRdhnJ_AuzQ/edit?usp=sharing",
     "Data Protection Registers": "https://docs.google.com/spreadsheets/d/1xvSJqwO70hrNuU17q9cTIVuVynfDOQkJpjpIOjFVN6s/edit?usp=sharing",
     "AI Registers": "https://docs.google.com/spreadsheets/d/10NqLBDhwQJyzEpQieYNtJJ7SAKmWJNhL2XUsC8JNSAM/edit?usp=sharing",
+    "Security Registers": "https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?usp=sharing",
+    "Security Registers, Chronology tab": "https://docs.google.com/spreadsheets/d/1pUUnpftyNIgUxDuehvNcS4GGI5DcpsvngXtA6xFRDp0/edit?gid=688519864#gid=688519864",
 }
 
 # Each subpage: (file name, list of parts). A part is a source path, or
@@ -120,7 +122,7 @@ PROJECTS = {
         ("06-tabletop-exercise.md", [
             "security-risk-incident-management/06-tabletop-exercise/scenario.md",
             "security-risk-incident-management/06-tabletop-exercise/tabletop-exercise-report.md",
-            ("embed", "Security Registers (select the Chronology tab before copying the link)"),
+            ("embed", "Security Registers, Chronology tab"),
         ]),
         ("07-continuity-plan.md", ["security-risk-incident-management/07-continuity/continuity-and-recovery-plan.md"]),
         ("08-registers.md", [

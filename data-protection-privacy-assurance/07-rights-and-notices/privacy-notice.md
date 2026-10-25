@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 **Kijani Heights Golf and Country Club** ("the Club") is the data controller for the personal data described here. Our Data Protection Officer can be reached through reception or the member app.
 

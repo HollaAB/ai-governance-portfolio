@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 **Approved by:** Management Committee, 9 December 2026 (scenario) | **Owner:** General Manager
 

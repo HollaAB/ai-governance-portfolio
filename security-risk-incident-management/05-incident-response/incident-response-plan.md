@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 **Owner:** ICT Officer, with the Compliance Officer (DPO) for personal data | **Approved by:** Security and Safety sub-committee (pending)
 

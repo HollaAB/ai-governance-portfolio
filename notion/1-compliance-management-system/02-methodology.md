@@ -1,4 +1,4 @@
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Stage 1: Obligations register
 

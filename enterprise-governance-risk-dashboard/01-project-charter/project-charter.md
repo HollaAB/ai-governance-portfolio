@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 ## Purpose
 
@@ -40,6 +40,6 @@ The Stage 2 compliance review showed that new activities (the ANPR pilot, the Ki
 | General Manager | Clear delegated authority |
 | Compliance Officer (DPO) | Escalation route for compliance and data protection risk |
 
-## Reviewer
+## Author
 
-Abel Holla reviews and approves each deliverable before it is published.
+Prepared by Abel Holla.

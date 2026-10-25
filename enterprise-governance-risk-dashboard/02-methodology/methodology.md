@@ -1,6 +1,6 @@
 # Methodology: Enterprise Governance and Risk Dashboard
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 1. **Baseline.** Review the Club's Articles, Bylaws, committee minutes for the last 12 months and the Stage 2 findings. Score current practice against the eleven ISO 37000:2021 governance principles on a 1 to 5 scale in the [maturity assessment](../07-improvement/governance-maturity-assessment.csv).
 2. **Design the framework.** Set out the governance structure, reserved matters and delegation of authority, and refresh the terms of reference of the two sub-committees that oversee risk and safety.

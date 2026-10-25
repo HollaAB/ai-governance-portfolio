@@ -1,6 +1,6 @@
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.2, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 **Approved by:** Management Committee (pending) | **Owner:** Compliance Officer (DPO) | **Review:** every year
 

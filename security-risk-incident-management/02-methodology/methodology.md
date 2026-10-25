@@ -1,6 +1,6 @@
 # Methodology: Security Risk and Incident Management
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 1. **Assets.** List the Club's information, system and physical assets and rate their criticality (1 to 5) in the [asset inventory](../03-security-assessment/asset-inventory.csv).
 2. **Threats and vulnerabilities.** For each critical asset, identify plausible threats and weaknesses through interviews, a site walk and document review, in the [threat and vulnerability assessment](../03-security-assessment/threat-vulnerability-assessment.csv).

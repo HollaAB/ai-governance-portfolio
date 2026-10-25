@@ -1,6 +1,6 @@
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.2, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 Controls are tested on a cycle set by risk. Results go into the testing workpapers and the quarterly report.
 

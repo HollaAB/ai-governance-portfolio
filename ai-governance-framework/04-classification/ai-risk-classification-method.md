@@ -2,7 +2,7 @@
 
 > **Portfolio project.** This is an independent learning project using a fictional organisation and illustrative data. It is not an audit, legal opinion, or certification.
 
-Draft 0.1, prepared for review by Abel Holla.
+Prepared by Abel Holla.
 
 Each AI use case is scored on six criteria (0 = no, 1 = partly, 2 = yes). The total sets the tier, but any criterion marked "always high" makes the system High regardless of the total.
 
